@@ -1,0 +1,755 @@
+SampleID	Sample	is_ffpe	longest_dimension	sample_type	sample_type_id	shortest_dimension	vial_number	Definition	ShortLetterCode	AnatomicSite	histologic_diagnosis	bcr_slide_barcode	percent_normal_cells	percent_stromal_cells	percent_tumor_cells	percent_tumor_nuclei	project	bcr_patient_barcode	age_at_initial_pathologic_diagnosis
+TCGA-A6-2675-01A	PT	False	2	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		63.3333333333333	6.66666666666667	30	43.3333333333333	COAD	TCGA-A6-2675	78
+TCGA-A6-2675-11A	STN	False	1	Solid Tissue Normal	11	0.9	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-A6-2675-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-A6-2675	78
+TCGA-A6-5667-01A	PT	False	2.5	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma	TCGA-A6-5667-01A-01-BS1	30	0	65	60	COAD	TCGA-A6-5667	40
+TCGA-A6-5667-11A	STN	False	1.7	Solid Tissue Normal	11	0.6	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-A6-5667-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-A6-5667	40
+TCGA-AA-3655-01A	PT	False	1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	10	90	95	COAD	TCGA-AA-3655	68
+TCGA-AA-3655-11A	STN	False	0.9	Solid Tissue Normal	11	0.6	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-AA-3655-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3655	68
+TCGA-AA-3660-01A	PT	False	0.4	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	30	70	85	COAD	TCGA-AA-3660	51
+TCGA-AA-3660-11A	STN	False	1	Solid Tissue Normal	11	0.3	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-AA-3660-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3660	51
+TCGA-AA-3662-01A	PT	False	0.9	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		10	10	80	90	COAD	TCGA-AA-3662	80
+TCGA-AA-3662-11A	STN	False	1.1	Solid Tissue Normal	11	0.3	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-AA-3662-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3662	80
+TCGA-AA-3663-01A	PT	False	1	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	10	90	70	COAD	TCGA-AA-3663	42
+TCGA-AA-3663-11A	STN	False	1.1	Solid Tissue Normal	11	0.3	A	Solid Tissue Normal	NT	Cecum		TCGA-AA-3663-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3663	42
+TCGA-AA-3697-01A	PT	False	2	Primary Tumor	1	0.8	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		15	7.5	62.5	72.5	COAD	TCGA-AA-3697	77
+TCGA-AA-3697-11A	STN	False	1	Solid Tissue Normal	11	0.5	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-AA-3697-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3697	77
+TCGA-AA-3712-01A	PT	False	0.7	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Descending Colon	Colon Adenocarcinoma		5	NA	94.5	82.5	COAD	TCGA-AA-3712	65
+TCGA-AA-3712-11A	STN	False	1.7	Solid Tissue Normal	11	0.3	A	Solid Tissue Normal	NT	Descending colon		TCGA-AA-3712-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3712	65
+TCGA-AA-3713-01A	PT	False	0.8	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		31.5	NA	67.5	76.5	COAD	TCGA-AA-3713	68
+TCGA-AA-3713-11A	STN	False	1.2	Solid Tissue Normal	11	0.5	A	Solid Tissue Normal	NT	Ascending colon		TCGA-AA-3713-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3713	68
+TCGA-AU-3779-01A	PT	False	1	Primary Tumor	1	0.1	A	Primary Solid Tumor	TP	Rectosigmoid Junction|Rectosigmoid Junction	Colon Adenocarcinoma|Colon Adenocarcinoma		0	15	75	67.5	COAD	TCGA-AU-3779	80
+TCGA-AU-6004-01A	PT	False	1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma	TCGA-AU-6004-01A-01-TS1	0	20	80	75	COAD	TCGA-AU-6004	69
+TCGA-AY-6196-01A	PT	False	1.5	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Cecum	Colon Mucinous Adenocarcinoma		0	60	40	74	COAD	TCGA-AY-6196	47
+TCGA-AY-6197-01A	PT	False	1.3	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	13.5	86.5	80	COAD	TCGA-AY-6197	60
+TCGA-AY-6386-01A	PT	False	0.9	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma	TCGA-AY-6386-01A-01-BS1	0	25	75	60	COAD	TCGA-AY-6386	66
+TCGA-AZ-5407-01A	PT	False	2.1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		15	10	75	75	COAD	TCGA-AZ-5407	51
+TCGA-CK-4950-01A	PT	False	0.9	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Cecum	Colon Mucinous Adenocarcinoma		27.5	17.5	53.5	57.5	COAD	TCGA-CK-4950	68
+TCGA-CK-4952-01A	PT	False	1	Primary Tumor	1	0.1	A	Primary Solid Tumor	TP	Ascending Colon	Colon Mucinous Adenocarcinoma		35	12.5	46.5	52.5	COAD	TCGA-CK-4952	48
+TCGA-CM-4743-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Hepatic Flexure	Colon Adenocarcinoma		4	5	89.5	67.5	COAD	TCGA-CM-4743	69
+TCGA-CM-5344-01A	PT	False	2.3	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	0	96.5	82.5	COAD	TCGA-CM-5344	39
+TCGA-CM-5348-01A	PT	False	1.3	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		2	5	91.5	70	COAD	TCGA-CM-5348	72
+TCGA-CM-5349-01A	PT	False	2	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		29	4	61.5	60	COAD	TCGA-CM-5349	68
+TCGA-D5-6530-01A	PT	False	1	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		0	0	99	80	COAD	TCGA-D5-6530	53
+TCGA-D5-6531-01A	PT	False	1.3	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Hepatic Flexure	Colon Adenocarcinoma		0	0	87.5	80	COAD	TCGA-D5-6531	75
+TCGA-D5-6532-01A	PT	False	1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	10	86	70	COAD	TCGA-D5-6532	61
+TCGA-D5-6533-01A	PT	False	0.9	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma		0	0	92.5	85	COAD	TCGA-D5-6533	68
+TCGA-D5-6535-01A	PT	False	0.7	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		0	0	95	80	COAD	TCGA-D5-6535	80
+TCGA-D5-6536-01A	PT	False	1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	0	95	80	COAD	TCGA-D5-6536	73
+TCGA-D5-6537-01A	PT	False	1	Primary Tumor	1	0.8	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma		0	0	97.5	85	COAD	TCGA-D5-6537	64
+TCGA-D5-6538-01A	PT	False	1	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP		Colon Adenocarcinoma		25	0	75	78	COAD	TCGA-D5-6538	79
+TCGA-D5-6539-01A	PT	False	1.2	Primary Tumor	1	0.7	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma		15	0	84.5	75.5	COAD	TCGA-D5-6539	45
+TCGA-D5-6540-01A	PT	False	0.8	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Cecum	Colon Mucinous Adenocarcinoma		0	0	99.5	80	COAD	TCGA-D5-6540	66
+TCGA-D5-6541-01A	PT	False	0.7	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Colon Adenocarcinoma		0	0	99	72.5	COAD	TCGA-D5-6541	49
+TCGA-F4-6463-01A	PT	False	2.5	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Transverse Colon	Colon Mucinous Adenocarcinoma		0	0	88.5	80	COAD	TCGA-F4-6463	51
+TCGA-G4-6293-01A	PT	False	1.5	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma		0	15	85	80	COAD	TCGA-G4-6293	49
+TCGA-G4-6295-01A	PT	False	2.5	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		1.5	15	76	77.5	COAD	TCGA-G4-6295	70
+TCGA-G4-6295-11A	STN	False	1.5	Solid Tissue Normal	11	0.4	A	Solid Tissue Normal	NT	Cecum		TCGA-G4-6295-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-G4-6295	70
+TCGA-G4-6297-01A	PT	False	1.1	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		14	22.5	58.5	77.5	COAD	TCGA-G4-6297	55
+TCGA-G4-6297-11A	STN	False	0.8	Solid Tissue Normal	11	0.3	A	Solid Tissue Normal	NT	Cecum		TCGA-G4-6297-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-G4-6297	55
+TCGA-G4-6298-01A	PT	False	3	Primary Tumor	1	1	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		25	10	64.5	70	COAD	TCGA-G4-6298	90
+TCGA-G4-6298-11A	STN	False	1.7	Solid Tissue Normal	11	0.4	A	Solid Tissue Normal	NT	Cecum		TCGA-G4-6298-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-G4-6298	90
+TCGA-G4-6302-01A	PT	False	1.5	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Cecum	Colon Mucinous Adenocarcinoma		1.5	22.5	74.5	78.5	COAD	TCGA-G4-6302	90
+TCGA-G4-6302-11A	STN	False	1.3	Solid Tissue Normal	11	0.3	A	Solid Tissue Normal	NT	Cecum		TCGA-G4-6302-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-G4-6302	90
+TCGA-G4-6307-01A	PT	False	1.5	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		5	12	78	80	COAD	TCGA-G4-6307	37
+TCGA-G4-6310-01A	PT	False	1.6	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		6.5	10	79.5	80	COAD	TCGA-G4-6310	69
+TCGA-G4-6311-01A	PT	False	1.5	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		8.5	17.5	69	72.5	COAD	TCGA-G4-6311	80
+TCGA-G4-6311-11A	STN	False	1.5	Solid Tissue Normal	11	0.4	A	Solid Tissue Normal	NT	Ascending colon		TCGA-G4-6311-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-G4-6311	80
+TCGA-G4-6314-01A	PT	False	1.2	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	42.5	52.5	60	COAD	TCGA-G4-6314	76
+TCGA-G4-6314-11A	STN	False	1.4	Solid Tissue Normal	11	0.7	A	Solid Tissue Normal	NT	Cecum		TCGA-G4-6314-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-G4-6314	76
+TCGA-G4-6315-01A	PT	False	1.7	Primary Tumor	1	0.7	A	Primary Solid Tumor	TP	Descending Colon	Colon Adenocarcinoma		7.5	13.5	66.5	76	COAD	TCGA-G4-6315	66
+TCGA-G4-6317-01A	PT	False	1.3	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma	TCGA-G4-6317-01A-01-TS1	25	15	55	70	COAD	TCGA-G4-6317	51
+TCGA-G4-6320-01A	PT	False	2	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Hepatic Flexure	Colon Adenocarcinoma		15	10	66	75	COAD	TCGA-G4-6320	73
+TCGA-G4-6320-11A	STN	False	1	Solid Tissue Normal	11	0.3	A	Solid Tissue Normal	NT	Hepatic Flexure		TCGA-G4-6320-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-G4-6320	73
+TCGA-G4-6321-01A	PT	False	1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		4	17.5	74	75	COAD	TCGA-G4-6321	60
+TCGA-G4-6322-01A	PT	False	1.2	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Descending Colon	Colon Mucinous Adenocarcinoma		2.5	12	85.5	80	COAD	TCGA-G4-6322	65
+TCGA-G4-6322-11A	STN	False	0.3	Solid Tissue Normal	11	0.1	A	Solid Tissue Normal	NT	Descending colon		TCGA-G4-6322-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-G4-6322	65
+TCGA-G4-6323-01A	PT	False	0.8	Primary Tumor	1	0.1	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	20	80	67.5	COAD	TCGA-G4-6323	50
+TCGA-A6-4105-01A	PT	False	2.6	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		10	20	60	65	COAD	TCGA-A6-4105	79
+TCGA-A6-6137-01A	PT	False	1.3	Primary Tumor	1	0.7	A	Primary Solid Tumor	TP	Hepatic Flexure	Colon Adenocarcinoma		0	0	85	72.5	COAD	TCGA-A6-6137	55
+TCGA-A6-6138-01A	PT	False	1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	29.5	70	70	COAD	TCGA-A6-6138	61
+TCGA-A6-6140-01A	PT	False	1.4	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Descending Colon	Colon Adenocarcinoma		0	0	97	77.5	COAD	TCGA-A6-6140	62
+TCGA-A6-6141-01A	PT	False	1.5	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	0	99	62.5	COAD	TCGA-A6-6141	31
+TCGA-A6-6142-01A	PT	False	0.8	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	25	74.5	77.5	COAD	TCGA-A6-6142	56
+TCGA-A6-6648-01A	PT	False	1.9	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Descending Colon	Colon Adenocarcinoma		15	2.5	77.5	72.5	COAD	TCGA-A6-6648	56
+TCGA-A6-6649-01A	PT	False	1.3	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		10	0	80	71.5	COAD	TCGA-A6-6649	66
+TCGA-A6-6650-01A	PT	False	1.4	Primary Tumor	1	0.7	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		8.5	0	88	77.5	COAD	TCGA-A6-6650	69
+TCGA-A6-6650-01B	PT	True	NA	Primary Tumor	1	NA	B	Primary Solid Tumor	TP				3.5	0	96.5	92	COAD	TCGA-A6-6650	69
+TCGA-A6-6652-01A	PT	False	0.7	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		32.5	0	57.5	80	COAD	TCGA-A6-6652	59
+TCGA-A6-6653-01A	PT	False	0.7	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		0	0	100	75.5	COAD	TCGA-A6-6653	82
+TCGA-AZ-6598-01A	PT	False	1.9	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		0	10	85	80	COAD	TCGA-AZ-6598	77
+TCGA-AZ-6598-11A	STN	False	2.2	Solid Tissue Normal	11	0.4	A	Solid Tissue Normal	NT	Ascending colon		TCGA-AZ-6598-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AZ-6598	77
+TCGA-AZ-6599-01A	PT	False	1.8	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	10	90	80	COAD	TCGA-AZ-6599	72
+TCGA-AZ-6599-11A	STN	False	1.5	Solid Tissue Normal	11	0.8	A	Solid Tissue Normal	NT	Cecum		TCGA-AZ-6599-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AZ-6599	72
+TCGA-AZ-6600-01A	PT	False	2	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		17.5	20	57.5	75	COAD	TCGA-AZ-6600	64
+TCGA-AZ-6600-11A	STN	False	2	Solid Tissue Normal	11	0.4	A	Solid Tissue Normal	NT	Ascending colon		TCGA-AZ-6600-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AZ-6600	64
+TCGA-AZ-6601-01A	PT	False	1.7	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	20	75	77.5	COAD	TCGA-AZ-6601	68
+TCGA-AZ-6601-11A	STN	False	2	Solid Tissue Normal	11	0.5	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-AZ-6601-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AZ-6601	68
+TCGA-D5-6529-01A	PT	False	1	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		0	0	95	71	COAD	TCGA-D5-6529	69
+TCGA-F4-6459-01A	PT	False	3	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	15	83.5	80	COAD	TCGA-F4-6459	61
+TCGA-F4-6460-01A	PT	False	2	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		12	4.5	82.5	73	COAD	TCGA-F4-6460	51
+TCGA-F4-6461-01A	PT	False	2.8	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Hepatic Flexure	Colon Adenocarcinoma		3.5	10	84	82.5	COAD	TCGA-F4-6461	41
+TCGA-F4-6569-01A	PT	False	2.3	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma		9	30	46	67.5	COAD	TCGA-F4-6569	60
+TCGA-F4-6570-01A	PT	False	2.8	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma		0	12.5	75	80	COAD	TCGA-F4-6570	78
+TCGA-G4-6294-01A	PT	False	0.6	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma	TCGA-G4-6294-01A-01-TS1	2	15	78	80	COAD	TCGA-G4-6294	75
+TCGA-G4-6299-01A	PT	False	1.1	Primary Tumor	1	0.1	A	Primary Solid Tumor	TP	Descending Colon	Colon Adenocarcinoma		0	27.5	65	75	COAD	TCGA-G4-6299	69
+TCGA-G4-6303-01A	PT	False	1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	22.5	71	80	COAD	TCGA-G4-6303	54
+TCGA-G4-6306-01A	PT	False	0.4	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma	TCGA-G4-6306-01A-01-TS1	10	15	67	80	COAD	TCGA-G4-6306	71
+TCGA-G4-6586-01A	PT	False	0.9	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		0	12.5	90	77.5	COAD	TCGA-G4-6586	73
+TCGA-G4-6588-01A	PT	False	2	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	17.5	82.5	82.5	COAD	TCGA-G4-6588	58
+TCGA-G4-6625-01A	PT	False	1.2	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma	TCGA-G4-6625-01A-01-BS1	10	25	55	60	COAD	TCGA-G4-6625	77
+TCGA-G4-6625-11A	STN	False	1.2	Solid Tissue Normal	11	0.4	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-G4-6625-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-G4-6625	77
+TCGA-G4-6626-01A	PT	False	1.8	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		18	20	67	77.5	COAD	TCGA-G4-6626	90
+TCGA-G4-6627-01A	PT	False	1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		20.5	35	43.5	37.5	COAD	TCGA-G4-6627	84
+TCGA-DM-A0X9-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		0	0	95	70	COAD	TCGA-DM-A0X9	71
+TCGA-DM-A0XD-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	20	70	67.5	COAD	TCGA-DM-A0XD	65
+TCGA-DM-A0XF-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	27.5	68	65	COAD	TCGA-DM-A0XF	68
+TCGA-DM-A1D0-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma	TCGA-DM-A1D0-01A-01-TSA	0	10	80	70	COAD	TCGA-DM-A1D0	79
+TCGA-DM-A1D4-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma	TCGA-DM-A1D4-01A-02-TSB	0	0	100	70	COAD	TCGA-DM-A1D4	80
+TCGA-DM-A1D6-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Splenic Flexure	Colon Mucinous Adenocarcinoma	TCGA-DM-A1D6-01A-02-TSB	0	30	70	60	COAD	TCGA-DM-A1D6	88
+TCGA-DM-A1D7-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Mucinous Adenocarcinoma	TCGA-DM-A1D7-01A-01-TSA	0	0	100	80	COAD	TCGA-DM-A1D7	82
+TCGA-DM-A1D8-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma	TCGA-DM-A1D8-01A-01-TSA	0	0	90	90	COAD	TCGA-DM-A1D8	50
+TCGA-DM-A1D9-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma	TCGA-DM-A1D9-01A-01-TSA	0	0	100	75	COAD	TCGA-DM-A1D9	67
+TCGA-DM-A1DA-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma	TCGA-DM-A1DA-01A-01-TSA	10	40	50	75	COAD	TCGA-DM-A1DA	71
+TCGA-DM-A1DB-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma	TCGA-DM-A1DB-01A-01-TSA	0	0	100	70	COAD	TCGA-DM-A1DB	68
+TCGA-DM-A1HA-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma	TCGA-DM-A1HA-01A-01-TSA	0	0	95	95	COAD	TCGA-DM-A1HA	82
+TCGA-A6-5656-01A	PT	False	1.2	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma	TCGA-A6-5656-01A-01-BS1	30	5	60	70	COAD	TCGA-A6-5656	74
+TCGA-A6-5656-01B	PT	True	NA	Primary Tumor	1	NA	B	Primary Solid Tumor	TP				0	32.5	60	62.5	COAD	TCGA-A6-5656	74
+TCGA-A6-5664-01A	PT	False	1.3	Primary Tumor	1	0.8	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma	TCGA-A6-5664-01A-01-BS1	30	0	66	70	COAD	TCGA-A6-5664	80
+TCGA-A6-6651-01A	PT	False	1	Primary Tumor	1	0.8	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma	TCGA-A6-6651-01A-01-BS1	40	0	50	60	COAD	TCGA-A6-6651	55
+TCGA-A6-6654-01A	PT	False	1.3	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Descending Colon	Colon Adenocarcinoma	TCGA-A6-6654-01A-01-BS1	15	0	70	70	COAD	TCGA-A6-6654	65
+TCGA-A6-6780-01A	PT	False	1.4	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Ascending Colon	Colon Mucinous Adenocarcinoma		0	7	87.5	80	COAD	TCGA-A6-6780	74
+TCGA-A6-6780-01B	PT	True	NA	Primary Tumor	1	NA	B	Primary Solid Tumor	TP				3	3.5	93.5	91	COAD	TCGA-A6-6780	74
+TCGA-A6-6782-01A	PT	False	1.7	Primary Tumor	1	0.9	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		0	17.5	81.5	65.5	COAD	TCGA-A6-6782	82
+TCGA-AA-3489-01A	PT	False	1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		22.5	7.5	56	70	COAD	TCGA-AA-3489	75
+TCGA-AA-3489-11A	STN	False	1.2	Solid Tissue Normal	11	0.3	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-AA-3489-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3489	75
+TCGA-AA-3496-01A	PT	False	1.2	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		0	9	87.5	75	COAD	TCGA-AA-3496	83
+TCGA-AA-3496-11A	STN	False	1.5	Solid Tissue Normal	11	0.6	A	Solid Tissue Normal	NT	Ascending colon		TCGA-AA-3496-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3496	83
+TCGA-AA-3511-01A	PT	False	1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	12.5	74	72.5	COAD	TCGA-AA-3511	64
+TCGA-AA-3511-11A	STN	False	0.7	Solid Tissue Normal	11	0.1	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-AA-3511-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3511	64
+TCGA-AD-6548-01A	PT	False	0.9	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Splenic Flexure	Colon Adenocarcinoma		32.5	30	48.5	52.5	COAD	TCGA-AD-6548	81
+TCGA-AZ-4323-01A	PT	False	1.5	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		20	10	65	35	COAD	TCGA-AZ-4323	37
+TCGA-AZ-4616-01A	PT	False	1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	10	77.5	75	COAD	TCGA-AZ-4616	82
+TCGA-AZ-6603-01A	PT	False	2	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		5	10	80	80	COAD	TCGA-AZ-6603	77
+TCGA-AZ-6603-11A	STN	False	2	Solid Tissue Normal	11	0.1	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-AZ-6603-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AZ-6603	77
+TCGA-AZ-6605-01A	PT	False	1	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		15	15	66	60	COAD	TCGA-AZ-6605	77
+TCGA-AZ-6605-11A	STN	False	2.3	Solid Tissue Normal	11	0.5	A	Solid Tissue Normal	NT	Ascending colon		TCGA-AZ-6605-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AZ-6605	77
+TCGA-AZ-6606-01A	PT	False	3	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		16.5	10	63.5	80	COAD	TCGA-AZ-6606	81
+TCGA-AZ-6606-11A	STN	False	2.4	Solid Tissue Normal	11	0.1	A	Solid Tissue Normal	NT	Cecum		TCGA-AZ-6606-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AZ-6606	81
+TCGA-AZ-6607-01A	PT	False	1.5	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	20	80	80	COAD	TCGA-AZ-6607	69
+TCGA-AZ-6607-11A	STN	False	2.5	Solid Tissue Normal	11	0.5	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-AZ-6607-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AZ-6607	69
+TCGA-AZ-6608-01A	PT	False	2	Primary Tumor	1	0.1	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	10	87	80	COAD	TCGA-AZ-6608	55
+TCGA-AZ-6608-11A	STN	False	1.7	Solid Tissue Normal	11	0.3	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-AZ-6608-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AZ-6608	55
+TCGA-CA-5254-01A	PT	False	1.5	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma		0	15	65	75	COAD	TCGA-CA-5254	42
+TCGA-CA-5255-01A	PT	False	1.5	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		5	45	46.5	65	COAD	TCGA-CA-5255	45
+TCGA-CA-6715-01A	PT	False	2	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma	TCGA-CA-6715-01A-01-BS1	0	20	60	70	COAD	TCGA-CA-6715	63
+TCGA-CA-6716-01A	PT	False	1.3	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		0	22.5	71	80	COAD	TCGA-CA-6716	65
+TCGA-CA-6717-01A	PT	False	1.5	Primary Tumor	1	0.7	A	Primary Solid Tumor	TP	Ascending Colon	Colon Mucinous Adenocarcinoma		0	22.5	74	80	COAD	TCGA-CA-6717	57
+TCGA-CA-6718-01A	PT	False	1.7	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		4	20	70	77.5	COAD	TCGA-CA-6718	46
+TCGA-CA-6719-01A	PT	False	1.2	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Descending Colon	Colon Adenocarcinoma		0	27.5	61.5	75	COAD	TCGA-CA-6719	77
+TCGA-CK-6746-01A	PT	False	1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma	TCGA-CK-6746-01A-01-TS1	0	10	90	90	COAD	TCGA-CK-6746	84
+TCGA-CK-6747-01A	PT	False	0.7	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	16.5	83.5	75	COAD	TCGA-CK-6747	87
+TCGA-CK-6748-01A	PT	False	0.7	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Mucinous Adenocarcinoma		0	25	75	72.5	COAD	TCGA-CK-6748	45
+TCGA-CK-6751-01A	PT	False	0.7	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Ascending Colon	Colon Mucinous Adenocarcinoma		0	27.5	72.5	72.5	COAD	TCGA-CK-6751	88
+TCGA-CM-4751-01A	PT	False	1.5	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma	TCGA-CM-4751-01A-01-BS1	10	15	70	80	COAD	TCGA-CM-4751	62
+TCGA-CM-5863-01A	PT	False	2	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Ascending Colon	Colon Mucinous Adenocarcinoma	TCGA-CM-5863-01A-01-BS1	25	0	70	50	COAD	TCGA-CM-5863	60
+TCGA-CM-6674-01A	PT	False	1.3	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Hepatic Flexure	Colon Adenocarcinoma		11	15	64	80	COAD	TCGA-CM-6674	39
+TCGA-CM-6675-01A	PT	False	2	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		6.5	11	77.5	82.5	COAD	TCGA-CM-6675	35
+TCGA-CM-6676-01A	PT	False	1.5	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		1.5	20	71	75	COAD	TCGA-CM-6676	82
+TCGA-CM-6677-01A	PT	False	2	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Hepatic Flexure	Colon Adenocarcinoma		0	20	70	62.5	COAD	TCGA-CM-6677	75
+TCGA-CM-6678-01A	PT	False	2	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	11	82.5	80	COAD	TCGA-CM-6678	63
+TCGA-CM-6679-01A	PT	False	1.7	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	22.5	69	77.5	COAD	TCGA-CM-6679	58
+TCGA-CM-6680-01A	PT	False	1.5	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		2.5	13.5	84	80	COAD	TCGA-CM-6680	78
+TCGA-F4-6703-01A	PT	False	2.2	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		0	27.5	67.5	72.5	COAD	TCGA-F4-6703	64
+TCGA-F4-6704-01A	PT	False	2	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Mucinous Adenocarcinoma		5.5	17.5	77	85	COAD	TCGA-F4-6704	60
+TCGA-F4-6704-11A	STN	False	2.5	Solid Tissue Normal	11	0.7	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-F4-6704-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-F4-6704	60
+TCGA-F4-6805-01A	PT	False	2	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Descending Colon	Colon Adenocarcinoma		12.5	30	52.5	77.5	COAD	TCGA-F4-6805	58
+TCGA-F4-6806-01A	PT	False	1.3	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		4	10	79.5	80	COAD	TCGA-F4-6806	59
+TCGA-F4-6807-01A	PT	False	2.5	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Hepatic Flexure	Colon Adenocarcinoma		5	30	61	80	COAD	TCGA-F4-6807	51
+TCGA-F4-6808-01A	PT	False	2.5	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	7.5	87.5	80	COAD	TCGA-F4-6808	54
+TCGA-F4-6809-01A	PT	False	2.6	Primary Tumor	1	0.7	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		9	15	71	80	COAD	TCGA-F4-6809	52
+TCGA-G4-6309-01A	PT	False	1.3	Primary Tumor	1	0.1	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma	TCGA-G4-6309-01A-01-BS1	3	10	77	80	COAD	TCGA-G4-6309	40
+TCGA-G4-6628-01A	PT	False	1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		10	12.5	77.5	75	COAD	TCGA-G4-6628	78
+TCGA-DM-A280-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Ascending Colon	Colon Mucinous Adenocarcinoma	TCGA-DM-A280-01A-01-TSA	0	30	70	75	COAD	TCGA-DM-A280	70
+TCGA-DM-A282-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Hepatic Flexure	Colon Adenocarcinoma	TCGA-DM-A282-01A-01-TSA	0	24	64	80	COAD	TCGA-DM-A282	60
+TCGA-DM-A285-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Ascending Colon	Colon Mucinous Adenocarcinoma	TCGA-DM-A285-01A-01-TS1	0	30	52	80	COAD	TCGA-DM-A285	71
+TCGA-DM-A288-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Mucinous Adenocarcinoma	TCGA-DM-A288-01A-01-TSA	0	20	70	80	COAD	TCGA-DM-A288	68
+TCGA-DM-A28A-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma	TCGA-DM-A28A-01A-02-TSB	5	13	80	80	COAD	TCGA-DM-A28A	78
+TCGA-DM-A28C-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma	TCGA-DM-A28C-01A-01-TSA	0	18	80	80	COAD	TCGA-DM-A28C	74
+TCGA-DM-A28E-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma	TCGA-DM-A28E-01A-01-TSA	0	17	80	80	COAD	TCGA-DM-A28E	72
+TCGA-DM-A28F-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma	TCGA-DM-A28F-01A-01-TSA	0	17	80	80	COAD	TCGA-DM-A28F	73
+TCGA-DM-A28G-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma	TCGA-DM-A28G-01A-01-TSA	0	23	75	75	COAD	TCGA-DM-A28G	75
+TCGA-DM-A28H-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma	TCGA-DM-A28H-01A-01-TS1	8	25	65	65	COAD	TCGA-DM-A28H	50
+TCGA-DM-A28K-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Hepatic Flexure	Colon Mucinous Adenocarcinoma	TCGA-DM-A28K-01A-02-TSB	0	22	75	75	COAD	TCGA-DM-A28K	75
+TCGA-DM-A28M-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Descending Colon	Colon Adenocarcinoma	TCGA-DM-A28M-01A-01-TS1	0	35	60	60	COAD	TCGA-DM-A28M	63
+TCGA-A6-6781-01A	PT	False	1.6	Primary Tumor	1	0.8	A	Primary Solid Tumor	TP	Splenic Flexure	Colon Mucinous Adenocarcinoma	TCGA-A6-6781-01A-01-BS1	NA	NA	NA	70	COAD	TCGA-A6-6781	43
+TCGA-A6-6781-01B	PT	True	NA	Primary Tumor	1	NA	B	Primary Solid Tumor	TP				0	0	100	72.5	COAD	TCGA-A6-6781	43
+TCGA-AD-6888-01A	PT	False	0.4	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Hepatic Flexure	Colon Adenocarcinoma	TCGA-AD-6888-01A-01-TS1	0	10	70	70	COAD	TCGA-AD-6888	73
+TCGA-AD-6889-01A	PT	False	1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		2.5	12.5	82.5	80	COAD	TCGA-AD-6889	76
+TCGA-AD-6890-01A	PT	False	0.3	Primary Tumor	1	0.1	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma	TCGA-AD-6890-01A-01-TS1	0	10	82	80	COAD	TCGA-AD-6890	65
+TCGA-AD-6895-01A	PT	False	0.3	Primary Tumor	1	0.1	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma	TCGA-AD-6895-01A-01-TS1	0	13	85	80	COAD	TCGA-AD-6895	84
+TCGA-AD-6899-01A	PT	False	1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Cecum	Colon Mucinous Adenocarcinoma		0	25	68.5	60	COAD	TCGA-AD-6899	84
+TCGA-AD-6901-01A	PT	False	0.7	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma	TCGA-AD-6901-01A-01-TS1	0	45	55	60	COAD	TCGA-AD-6901	78
+TCGA-AD-6963-01A	PT	False	0.3	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma	TCGA-AD-6963-01A-01-TS1	0	25	65	70	COAD	TCGA-AD-6963	58
+TCGA-AD-6964-01A	PT	False	0.4	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma	TCGA-AD-6964-01A-01-TS1	0	50	50	60	COAD	TCGA-AD-6964	58
+TCGA-AD-6965-01A	PT	False	0.9	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	11	85	76	COAD	TCGA-AD-6965	62
+TCGA-D5-5537-01A	PT	False	0.8	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma	TCGA-D5-5537-01A-01-BS1	0	15	NA	65	COAD	TCGA-D5-5537	83
+TCGA-D5-6534-01A	PT	False	1.1	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Ascending Colon	Colon Mucinous Adenocarcinoma	TCGA-D5-6534-01A-01-BS1	20	0	80	80	COAD	TCGA-D5-6534	62
+TCGA-D5-6898-01A	PT	False	1.2	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	35	58.5	67.5	COAD	TCGA-D5-6898	51
+TCGA-D5-6920-01A	PT	False	1.5	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		16	15	68.5	72.5	COAD	TCGA-D5-6920	77
+TCGA-D5-6922-01A	PT	False	1.1	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		10	32.5	57.5	67.5	COAD	TCGA-D5-6922	76
+TCGA-D5-6923-01A	PT	False	1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	29	69.5	80	COAD	TCGA-D5-6923	57
+TCGA-D5-6924-01A	PT	False	1.1	Primary Tumor	1	0.7	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	45.5	50	65	COAD	TCGA-D5-6924	68
+TCGA-D5-6926-01A	PT	False	0.7	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		7.5	54.5	35	42.5	COAD	TCGA-D5-6926	65
+TCGA-D5-6927-01A	PT	False	2.5	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma	TCGA-D5-6927-01A-01-BS1	0	21	67	75	COAD	TCGA-D5-6927	34
+TCGA-D5-6928-01A	PT	False	1	Primary Tumor	1	0.8	A	Primary Solid Tumor	TP	Ascending Colon	Colon Mucinous Adenocarcinoma		11	36.5	50	55	COAD	TCGA-D5-6928	80
+TCGA-D5-6929-01A	PT	False	1	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	10	70	70	COAD	TCGA-D5-6929	49
+TCGA-D5-6930-01A	PT	False	0.9	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Ascending Colon	Colon Mucinous Adenocarcinoma		0	28.5	70	70	COAD	TCGA-D5-6930	67
+TCGA-D5-6931-01A	PT	False	1	Primary Tumor	1	0.8	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma		7	26.5	57.5	67.5	COAD	TCGA-D5-6931	77
+TCGA-D5-6932-01A	PT	False	1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma		0	32.5	62.5	77.5	COAD	TCGA-D5-6932	69
+TCGA-D5-7000-01A	PT	False	0.9	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Cecum	Colon Mucinous Adenocarcinoma		0	7.5	80	70	COAD	TCGA-D5-7000	79
+TCGA-F4-6854-01A	PT	False	2.3	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		2.5	35	58.5	80	COAD	TCGA-F4-6854	77
+TCGA-F4-6855-01A	PT	False	1.7	Primary Tumor	1	0.7	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	20	80	77.5	COAD	TCGA-F4-6855	70
+TCGA-F4-6856-01A	PT	False	2	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Cecum	Colon Mucinous Adenocarcinoma		1.5	15	82	80	COAD	TCGA-F4-6856	45
+TCGA-G4-6304-01A	PT	False	1.5	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma		2.5	35	59.5	72.5	COAD	TCGA-G4-6304	66
+TCGA-DM-A1HB-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Transverse Colon	Colon Mucinous Adenocarcinoma	TCGA-DM-A1HB-01A-02-TSB	0	0	100	70	COAD	TCGA-DM-A1HB	75
+TCGA-A6-2670-01A	PT	False	1.5	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		NA	NA	NA	NA	COAD	TCGA-A6-2670	45
+TCGA-A6-2674-01A	PT	False	0.8	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Mucinous Adenocarcinoma		0	15	80	82.5	COAD	TCGA-A6-2674	71
+TCGA-A6-2674-01B	PT	True	NA	Primary Tumor	1	NA	B	Primary Solid Tumor	TP				0	27.5	70.5	66.5	COAD	TCGA-A6-2674	71
+TCGA-A6-2674-11A	STN	False	1.7	Solid Tissue Normal	11	0.5	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-A6-2674-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-A6-2674	71
+TCGA-A6-2677-01A	PT	False	0.7	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		7.5	5	76.5	85	COAD	TCGA-A6-2677	68
+TCGA-A6-2677-01B	PT	True	NA	Primary Tumor	1	NA	B	Primary Solid Tumor	TP				0	32.5	60	80	COAD	TCGA-A6-2677	68
+TCGA-A6-2677-11A	STN	False	0.9	Solid Tissue Normal	11	0.4	A	Solid Tissue Normal	NT	Cecum		TCGA-A6-2677-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-A6-2677	68
+TCGA-A6-2678-01A	PT	False	1.3	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma		12.5	7.5	75	80	COAD	TCGA-A6-2678	43
+TCGA-A6-2678-11A	STN	False	0.8	Solid Tissue Normal	11	0.3	A	Solid Tissue Normal	NT	Transverse Colon		TCGA-A6-2678-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-A6-2678	43
+TCGA-A6-2683-01A	PT	False	1.7	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		0	7.5	88.5	90	COAD	TCGA-A6-2683	57
+TCGA-A6-2683-11A	STN	False	1.2	Solid Tissue Normal	11	0.5	A	Solid Tissue Normal	NT	Ascending colon		TCGA-A6-2683-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-A6-2683	57
+TCGA-AA-3514-01A	PT	False	1.2	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		0	25	75	75	COAD	TCGA-AA-3514	81
+TCGA-AA-3514-11A	STN	False	0.6	Solid Tissue Normal	11	0.4	A	Solid Tissue Normal	NT	Ascending colon		TCGA-AA-3514-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3514	81
+TCGA-AA-3517-01A	PT	False	0.5	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Splenic Flexure	Colon Adenocarcinoma		0	10	90	95	COAD	TCGA-AA-3517	60
+TCGA-AA-3517-11A	STN	False	1.8	Solid Tissue Normal	11	0.3	A	Solid Tissue Normal	NT	Splenic Flexure		TCGA-AA-3517-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3517	60
+TCGA-AA-3519-01A	PT	False	1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	7.5	92.5	92.5	COAD	TCGA-AA-3519	63
+TCGA-AA-3519-11A	STN	False	1.3	Solid Tissue Normal	11	0.4	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-AA-3519-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3519	63
+TCGA-AA-3520-01A	PT	False	0.9	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		0	25	75	90	COAD	TCGA-AA-3520	86
+TCGA-AA-3520-11A	STN	False	1.2	Solid Tissue Normal	11	0.5	A	Solid Tissue Normal	NT	Ascending colon		TCGA-AA-3520-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3520	86
+TCGA-AA-3521-01A	PT	False	1.1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	30	70	85	COAD	TCGA-AA-3521	87
+TCGA-AA-3521-11A	STN	False	1.2	Solid Tissue Normal	11	0.4	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-AA-3521-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3521	87
+TCGA-AA-3522-01A	PT	False	0.9	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		15	15	70	75	COAD	TCGA-AA-3522	67
+TCGA-AA-3522-11A	STN	False	1.2	Solid Tissue Normal	11	0.2	A	Solid Tissue Normal	NT	Ascending colon		TCGA-AA-3522-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3522	67
+TCGA-AA-3524-01A	PT	False	0.8	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	20	80	90	COAD	TCGA-AA-3524	85
+TCGA-AA-3524-11A	STN	False	1	Solid Tissue Normal	11	0.3	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-AA-3524-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3524	85
+TCGA-AA-3526-01A	PT	False	0.9	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		2.5	17.5	80	90	COAD	TCGA-AA-3526	57
+TCGA-AA-3526-11A	STN	False	1	Solid Tissue Normal	11	0.4	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-AA-3526-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3526	57
+TCGA-AA-3527-01A	PT	False	0.8	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	35	65	75	COAD	TCGA-AA-3527	90
+TCGA-AA-3527-11A	STN	False	1	Solid Tissue Normal	11	0.4	A	Solid Tissue Normal	NT	Cecum		TCGA-AA-3527-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3527	90
+TCGA-AA-3529-01A	PT	False	1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		25	10	65	80	COAD	TCGA-AA-3529	78
+TCGA-AA-3529-11A	STN	False	1	Solid Tissue Normal	11	0.4	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-AA-3529-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3529	78
+TCGA-AA-3531-01A	PT	False	1.5	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		5	15	80	85	COAD	TCGA-AA-3531	75
+TCGA-AA-3531-11A	STN	False	0.8	Solid Tissue Normal	11	0.6	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-AA-3531-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3531	75
+TCGA-AA-3532-01A	PT	False	0.7	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	17.5	82.5	87.5	COAD	TCGA-AA-3532	63
+TCGA-AA-3532-11A	STN	False	1.1	Solid Tissue Normal	11	0.3	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-AA-3532-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3532	63
+TCGA-AA-3534-01A	PT	False	0.8	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		5	35	60	75	COAD	TCGA-AA-3534	78
+TCGA-AA-3534-11A	STN	False	0.9	Solid Tissue Normal	11	0.3	A	Solid Tissue Normal	NT	Ascending colon		TCGA-AA-3534-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3534	78
+TCGA-AA-3538-01A	PT	False	0.9	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Descending Colon	Colon Adenocarcinoma		10	32	52.5	75	COAD	TCGA-AA-3538	54
+TCGA-AA-3542-01A	PT	False	0.8	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	11.5	80	90	COAD	TCGA-AA-3542	69
+TCGA-AA-3544-01A	PT	False	0.9	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	37.5	62.5	82.5	COAD	TCGA-AA-3544	68
+TCGA-AA-3548-01A	PT	False	1.3	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		1.5	17	81	87.5	COAD	TCGA-AA-3548	71
+TCGA-AA-3549-01A	PT	False	1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		3.5	17.5	79	85	COAD	TCGA-AA-3549	69
+TCGA-AA-3552-01A	PT	False	1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		5	5	90	90	COAD	TCGA-AA-3552	85
+TCGA-AA-3553-01A	PT	False	0.8	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	40	60	70	COAD	TCGA-AA-3553	61
+TCGA-AA-3555-01A	PT	False	1.3	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Hepatic Flexure	Colon Mucinous Adenocarcinoma		0	50	50	70	COAD	TCGA-AA-3555	81
+TCGA-AA-3556-01A	PT	False	0.7	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Mucinous Adenocarcinoma		0	40	60	75	COAD	TCGA-AA-3556	78
+TCGA-AA-3558-01A	PT	False	1.4	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	60	40	80	COAD	TCGA-AA-3558	70
+TCGA-AA-3560-01A	PT	False	1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	15	85	90	COAD	TCGA-AA-3560	72
+TCGA-AA-3561-01A	PT	False	1.1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		0	15	85	90	COAD	TCGA-AA-3561	72
+TCGA-AA-3562-01A	PT	False	1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Descending Colon	Colon Adenocarcinoma		12.5	22.5	65	75	COAD	TCGA-AA-3562	82
+TCGA-A6-2672-01A	PT	False	1.3	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	10	85	80	COAD	TCGA-A6-2672	82
+TCGA-A6-2672-01B	PT	True	NA	Primary Tumor	1	NA	B	Primary Solid Tumor	TP				NA	NA	NA	NA	COAD	TCGA-A6-2672	82
+TCGA-A6-2672-11A	STN	False	1	Solid Tissue Normal	11	0.8	A	Solid Tissue Normal	NT	Cecum		TCGA-A6-2672-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-A6-2672	82
+TCGA-A6-2676-01A	PT	False	0.9	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		2.5	6	87.5	90	COAD	TCGA-A6-2676	75
+TCGA-A6-2676-11A	STN	False	2	Solid Tissue Normal	11	0.7	A	Solid Tissue Normal	NT	Cecum		TCGA-A6-2676-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-A6-2676	75
+TCGA-AA-3516-01A	PT	False	0.9	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Ascending Colon	Colon Mucinous Adenocarcinoma		20	5	75	90	COAD	TCGA-AA-3516	74
+TCGA-AA-3516-11A	STN	False	1	Solid Tissue Normal	11	0.6	A	Solid Tissue Normal	NT	Ascending colon		TCGA-AA-3516-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3516	74
+TCGA-AA-3518-01A	PT	False	1.2	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	10	90	95	COAD	TCGA-AA-3518	81
+TCGA-AA-3518-11A	STN	False	1	Solid Tissue Normal	11	0.3	A	Solid Tissue Normal	NT	Cecum		TCGA-AA-3518-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3518	81
+TCGA-AA-3525-01A	PT	False	1.1	Primary Tumor	1	0.9	A	Primary Solid Tumor	TP	Hepatic Flexure	Colon Adenocarcinoma		20	10	70	75	COAD	TCGA-AA-3525	90
+TCGA-AA-3525-11A	STN	False	1	Solid Tissue Normal	11	0.4	A	Solid Tissue Normal	NT	Hepatic Flexure		TCGA-AA-3525-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3525	90
+TCGA-AA-3543-01A	PT	False	1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Cecum	Colon Mucinous Adenocarcinoma		0	38	60	70	COAD	TCGA-AA-3543	84
+TCGA-AA-3554-01A	PT	False	1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		0	30	70	90	COAD	TCGA-AA-3554	62
+TCGA-AA-A00A-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		0	4.5	92.5	92.5	COAD	TCGA-AA-A00A	80
+TCGA-AA-A00D-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		0.5	20	78.25	75	COAD	TCGA-AA-A00D	70
+TCGA-AA-A00E-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		20	11.5	67.5	70	COAD	TCGA-AA-A00E	65
+TCGA-AA-A00F-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		42.5	9.5	46.5	70	COAD	TCGA-AA-A00F	66
+TCGA-AA-A00J-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Ascending Colon	Colon Mucinous Adenocarcinoma		0	10.5	86.75	88.75	COAD	TCGA-AA-A00J	80
+TCGA-AA-A00K-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		50	9.5	40	70	COAD	TCGA-AA-A00K	79
+TCGA-AA-A00L-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma		0	2.25	95	83.75	COAD	TCGA-AA-A00L	66
+TCGA-AA-A00Q-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	14.25	84	78.75	COAD	TCGA-AA-A00Q	66
+TCGA-AA-A00R-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	18	80	92.5	COAD	TCGA-AA-A00R	64
+TCGA-AA-A00U-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		0	4	93.25	75	COAD	TCGA-AA-A00U	50
+TCGA-AA-A00W-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	3	96	85	COAD	TCGA-AA-A00W	80
+TCGA-AA-A00Z-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	5.5	91	85	COAD	TCGA-AA-A00Z	70
+TCGA-AA-A01F-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		3.75	11.5	83	83.75	COAD	TCGA-AA-A01F	72
+TCGA-AA-A01G-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Mucinous Adenocarcinoma		1.25	16.25	80.5	78.75	COAD	TCGA-AA-A01G	63
+TCGA-AA-A01Q-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		0	4	95	95	COAD	TCGA-AA-A01Q	48
+TCGA-A6-A565-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Transverse Colon	Colon Mucinous Adenocarcinoma	TCGA-A6-A565-01A-03-TS3	10	25	65	65	COAD	TCGA-A6-A565	34
+TCGA-A6-A566-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Descending Colon	Colon Mucinous Adenocarcinoma	TCGA-A6-A566-01A-01-TS1	0	35	45	80	COAD	TCGA-A6-A566	55
+TCGA-A6-A567-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma	TCGA-A6-A567-01A-03-TS3	10	25	65	65	COAD	TCGA-A6-A567	56
+TCGA-A6-A56B-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma	TCGA-A6-A56B-01A-03-TS3	0	0	83	70	COAD	TCGA-A6-A56B	57
+TCGA-A6-A5ZU-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma	TCGA-A6-A5ZU-01A-01-TS1	0	27	70	70	COAD	TCGA-A6-A5ZU	59
+TCGA-AD-A5EJ-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma	TCGA-AD-A5EJ-01A-01-TS1	5	0	90	65	COAD	TCGA-AD-A5EJ	74
+TCGA-AD-A5EK-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma	TCGA-AD-A5EK-01A-01-TS1	15	0	85	65	COAD	TCGA-AD-A5EK	51
+TCGA-AY-A54L-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma	TCGA-AY-A54L-01A-01-TS1	0	20	60	75	COAD	TCGA-AY-A54L	74
+TCGA-NH-A50T-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Splenic Flexure	Colon Adenocarcinoma	TCGA-NH-A50T-01A-01-TS1	15	10	70	90	COAD	TCGA-NH-A50T	68
+TCGA-NH-A50V-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma	TCGA-NH-A50V-01A-01-TS1	0	25	70	80	COAD	TCGA-NH-A50V	69
+TCGA-QG-A5YV-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma	TCGA-QG-A5YV-01A-01-TSA	0	18	80	75	COAD	TCGA-QG-A5YV	64
+TCGA-QG-A5YW-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Mucinous Adenocarcinoma	TCGA-QG-A5YW-01A-01-TS1	10	25	65	65	COAD	TCGA-QG-A5YW	55
+TCGA-QG-A5YX-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma	TCGA-QG-A5YX-01A-01-TSA	10	9	80	80	COAD	TCGA-QG-A5YX	61
+TCGA-QG-A5Z1-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma	TCGA-QG-A5Z1-01A-01-TS1	0	0	99	65	COAD	TCGA-QG-A5Z1	71
+TCGA-QG-A5Z2-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma	TCGA-QG-A5Z2-01A-01-TS1	0	0	100	65	COAD	TCGA-QG-A5Z2	61
+TCGA-AA-A004-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		7.5	8.5	82.5	72.5	COAD	TCGA-AA-A004	76
+TCGA-AA-A00N-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Mucinous Adenocarcinoma		0	30	62.5	72.5	COAD	TCGA-AA-A00N	75
+TCGA-AA-A00O-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0.75	10.75	87	91.25	COAD	TCGA-AA-A00O	83
+TCGA-AA-A010-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma		4.75	18.5	75	76.25	COAD	TCGA-AA-A010	46
+TCGA-AA-A017-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	15	77.5	70	COAD	TCGA-AA-A017	57
+TCGA-AA-A01C-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		0	14.5	82.5	85	COAD	TCGA-AA-A01C	75
+TCGA-AA-A01D-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Colon Mucinous Adenocarcinoma		7.5	11.25	74.5	76.25	COAD	TCGA-AA-A01D	47
+TCGA-AA-A01I-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	18.5	80	75	COAD	TCGA-AA-A01I	76
+TCGA-AA-A01K-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		2.5	12.5	80	70	COAD	TCGA-AA-A01K	74
+TCGA-AA-A024-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Descending Colon	Colon Mucinous Adenocarcinoma		0	29	69.5	70	COAD	TCGA-AA-A024	81
+TCGA-AA-A029-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		8.75	10.5	79	81.25	COAD	TCGA-AA-A029	67
+TCGA-AA-A02E-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		1.25	10	83.5	70	COAD	TCGA-AA-A02E	82
+TCGA-AA-A02F-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Colon Adenocarcinoma		2.5	6.25	81.25	92.5	COAD	TCGA-AA-A02F	68
+TCGA-AA-A02H-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		8	14.25	74.25	76.25	COAD	TCGA-AA-A02H	74
+TCGA-AA-A02J-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		10	6.25	77.25	81.25	COAD	TCGA-AA-A02J	70
+TCGA-AA-A02R-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		6.25	13.25	77.25	80	COAD	TCGA-AA-A02R	84
+TCGA-AA-A02W-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	18.5	76.5	72.5	COAD	TCGA-AA-A02W	73
+TCGA-AA-3664-01A	PT	False	1	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	0	100	80	COAD	TCGA-AA-3664	74
+TCGA-AA-3666-01A	PT	False	0.8	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	0	97.5	80	COAD	TCGA-AA-3666	68
+TCGA-AA-3667-01A	PT	False	0.6	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	0	100	75	COAD	TCGA-AA-3667	36
+TCGA-AA-3672-01A	PT	False	1	Primary Tumor	1	0.8	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma		2.5	8	85.5	87.5	COAD	TCGA-AA-3672	90
+TCGA-AA-3673-01A	PT	False	1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma		1	44	50	70	COAD	TCGA-AA-3673	53
+TCGA-AA-3675-01A	PT	False	1.1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Hepatic Flexure	Colon Adenocarcinoma		0	32.5	65	70	COAD	TCGA-AA-3675	84
+TCGA-AA-3678-01A	PT	False	0.9	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		3	20	77	87.5	COAD	TCGA-AA-3678	60
+TCGA-AA-3679-01A	PT	False	0.8	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Descending Colon	Colon Adenocarcinoma		4	20	71	72.5	COAD	TCGA-AA-3679	59
+TCGA-AA-3680-01A	PT	False	1	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	5	95	80	COAD	TCGA-AA-3680	67
+TCGA-AA-3681-01A	PT	False	0.9	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		17.5	3.5	74	75	COAD	TCGA-AA-3681	77
+TCGA-AA-3684-01A	PT	False	1.8	Primary Tumor	1	0.8	A	Primary Solid Tumor	TP	Cecum	Colon Mucinous Adenocarcinoma		3.5	20	76.5	70	COAD	TCGA-AA-3684	65
+TCGA-AA-3685-01A	PT	False	0.9	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		10.5	11	72	72.5	COAD	TCGA-AA-3685	69
+TCGA-AA-3688-01A	PT	False	0.8	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		4	10	76	74	COAD	TCGA-AA-3688	80
+TCGA-AA-3692-01A	PT	False	0.6	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Splenic Flexure	Colon Mucinous Adenocarcinoma		7.5	11.5	74.5	70	COAD	TCGA-AA-3692	47
+TCGA-AA-3693-01A	PT	False	0.8	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	40	51	75	COAD	TCGA-AA-3693	77
+TCGA-AA-3695-01A	PT	False	1.3	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	17.5	80	80	COAD	TCGA-AA-3695	63
+TCGA-AA-3696-01A	PT	False	1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		4	12.5	76	80	COAD	TCGA-AA-3696	75
+TCGA-AA-3715-01A	PT	False	1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		19	5	87	82.5	COAD	TCGA-AA-3715	77
+TCGA-AA-3812-01A	PT	False	1.3	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		20	10	NA	72.5	COAD	TCGA-AA-3812	82
+TCGA-AA-3814-01A	PT	False	0.8	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		9	16.5	66.5	72.5	COAD	TCGA-AA-3814	85
+TCGA-AA-3818-01A	PT	False	1	Primary Tumor	1	0.8	A	Primary Solid Tumor	TP	Hepatic Flexure	Colon Adenocarcinoma		0	30	65	75	COAD	TCGA-AA-3818	78
+TCGA-AA-3819-01A	PT	False	1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		2.5	12.5	75	80	COAD	TCGA-AA-3819	41
+TCGA-AA-3831-01A	PT	False	1.1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	10	82.5	77.5	COAD	TCGA-AA-3831	66
+TCGA-AA-3833-01A	PT	False	1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		2.5	12.5	80	77.5	COAD	TCGA-AA-3833	63
+TCGA-AA-3837-01A	PT	False	1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Hepatic Flexure	Colon Mucinous Adenocarcinoma		4	25	68	75	COAD	TCGA-AA-3837	67
+TCGA-AA-3841-01A	PT	False	1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		7.5	10	77.5	77.5	COAD	TCGA-AA-3841	66
+TCGA-AA-3848-01A	PT	False	1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		2.5	10	79.5	85	COAD	TCGA-AA-3848	82
+TCGA-AA-3852-01A	PT	False	1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Transverse Colon	Colon Mucinous Adenocarcinoma		1	17.5	86.5	80	COAD	TCGA-AA-3852	88
+TCGA-AA-3854-01A	PT	False	0.9	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Mucinous Adenocarcinoma		2.5	6.5	91	85	COAD	TCGA-AA-3854	71
+TCGA-AA-3856-01A	PT	False	1.4	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		8.5	12.5	64	75	COAD	TCGA-AA-3856	59
+TCGA-AA-3858-01A	PT	False	0.8	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		4	10	79.5	85	COAD	TCGA-AA-3858	67
+TCGA-AA-3860-01A	PT	False	0.7	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	10	82.5	80	COAD	TCGA-AA-3860	53
+TCGA-AA-3875-01A	PT	False	0.7	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		17.5	12.5	65	70	COAD	TCGA-AA-3875	78
+TCGA-3L-AA1B-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma	TCGA-3L-AA1B-01A-01-TS1	0	40	60	70	COAD	TCGA-3L-AA1B	61
+TCGA-4N-A93T-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma	TCGA-4N-A93T-01A-01-TS1	10	35	45	75	COAD	TCGA-4N-A93T	67
+TCGA-AY-A69D-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma	TCGA-AY-A69D-01A-01-TS1	15	25	60	60	COAD	TCGA-AY-A69D	55
+TCGA-AY-A71X-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma	TCGA-AY-A71X-01A-01-TS1	0	29	70	90	COAD	TCGA-AY-A71X	54
+TCGA-NH-A50U-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Mucinous Adenocarcinoma	TCGA-NH-A50U-01A-03-TS3	0	5	95	60	COAD	TCGA-NH-A50U	42
+TCGA-NH-A5IV-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma	TCGA-NH-A5IV-01A-04-TS4	0	26	70	70	COAD	TCGA-NH-A5IV	90
+TCGA-NH-A6GA-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma	TCGA-NH-A6GA-01A-01-TS1	0	20	80	80	COAD	TCGA-NH-A6GA	58
+TCGA-NH-A6GB-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma	TCGA-NH-A6GB-01A-01-TS1	0	25	70	70	COAD	TCGA-NH-A6GB	71
+TCGA-RU-A8FL-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma	TCGA-RU-A8FL-01A-01-TSA	7	10	80	80	COAD	TCGA-RU-A8FL	51
+TCGA-SS-A7HO-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma	TCGA-SS-A7HO-01A-02-TS2	0	0	90	70	COAD	TCGA-SS-A7HO	44
+TCGA-T9-A92H-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma	TCGA-T9-A92H-01A-01-TS1	5	30	60	65	COAD	TCGA-T9-A92H	82
+TCGA-A6-3807-01A	PT	False	0.8	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		5	20	70	70	COAD	TCGA-A6-3807	53
+TCGA-A6-3807-11A	STN	False	1.5	Solid Tissue Normal	11	0.8	A	Solid Tissue Normal	NT	Sigmoid colon			NA	NA	NA	NA	COAD	TCGA-A6-3807	53
+TCGA-A6-3808-01A	PT	False	1.4	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		15	17.5	NA	75	COAD	TCGA-A6-3808	73
+TCGA-A6-3808-11A	STN	False	1.4	Solid Tissue Normal	11	0.3	A	Solid Tissue Normal	NT	Ascending colon			NA	NA	NA	NA	COAD	TCGA-A6-3808	73
+TCGA-A6-3809-01A	PT	False	0.8	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma		0	12.5	77	80	COAD	TCGA-A6-3809	71
+TCGA-A6-3809-01B	PT	True	NA	Primary Tumor	1	NA	B	Primary Solid Tumor	TP				12	35	39.5	55	COAD	TCGA-A6-3809	71
+TCGA-A6-3809-11A	STN	False	2.4	Solid Tissue Normal	11	0.4	A	Solid Tissue Normal	NT	Transverse Colon			NA	NA	NA	NA	COAD	TCGA-A6-3809	71
+TCGA-A6-3810-01A	PT	False	2.2	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		42.5	7.5	37.5	75	COAD	TCGA-A6-3810	62
+TCGA-A6-3810-01B	PT	True	NA	Primary Tumor	1	NA	B	Primary Solid Tumor	TP				0	52.5	32.5	65	COAD	TCGA-A6-3810	62
+TCGA-A6-3810-11A	STN	False	2	Solid Tissue Normal	11	0.7	A	Solid Tissue Normal	NT	Splenic Flexure			NA	NA	NA	NA	COAD	TCGA-A6-3810	62
+TCGA-AA-3530-01A	PT	False	1.6	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	20	80	90	COAD	TCGA-AA-3530	80
+TCGA-AA-3530-11A	STN	False	1.3	Solid Tissue Normal	11	0.5	A	Solid Tissue Normal	NT	Cecum		TCGA-AA-3530-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3530	80
+TCGA-AA-3710-01A	PT	False	1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Hepatic Flexure	Colon Adenocarcinoma		6.5	NA	92.5	87.5	COAD	TCGA-AA-3710	80
+TCGA-AA-3811-01A	PT	False	1.2	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Hepatic Flexure	Colon Adenocarcinoma		10	5	NA	82.5	COAD	TCGA-AA-3811	84
+TCGA-AA-3815-01A	PT	False	1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		12.5	10	69.5	72.5	COAD	TCGA-AA-3815	65
+TCGA-AA-3821-01A	PT	False	0.5	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Hepatic Flexure	Colon Mucinous Adenocarcinoma		0	7.5	88.5	85	COAD	TCGA-AA-3821	81
+TCGA-AA-3842-01A	PT	False	0.8	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		10	10	77	80	COAD	TCGA-AA-3842	51
+TCGA-AA-3844-01A	PT	False	1.2	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	11	80	85	COAD	TCGA-AA-3844	78
+TCGA-AA-3845-01A	PT	False	1	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		10	8	79.5	82.5	COAD	TCGA-AA-3845	86
+TCGA-AA-3846-01A	PT	False	1	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		1.5	10	78.5	80	COAD	TCGA-AA-3846	74
+TCGA-AA-3850-01A	PT	False	1.6	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma		2.5	6.5	81	85	COAD	TCGA-AA-3850	74
+TCGA-AA-3851-01A	PT	False	1	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		2.5	10	87	85	COAD	TCGA-AA-3851	74
+TCGA-AA-3855-01A	PT	False	0.9	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		16.5	10	70	75	COAD	TCGA-AA-3855	72
+TCGA-AA-3861-01A	PT	False	1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		4	5	90	80	COAD	TCGA-AA-3861	72
+TCGA-AA-3862-01A	PT	False	0.8	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma		22.5	10	64	77.5	COAD	TCGA-AA-3862	82
+TCGA-AA-3864-01A	PT	False	1.8	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		5	14	76	82.5	COAD	TCGA-AA-3864	71
+TCGA-AA-3866-01A	PT	False	0.8	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	15	75	85	COAD	TCGA-AA-3866	78
+TCGA-AA-3867-01A	PT	False	1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		15	10	75	80	COAD	TCGA-AA-3867	74
+TCGA-AA-3869-01A	PT	False	1.3	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	10	70	80	COAD	TCGA-AA-3869	76
+TCGA-AA-3870-01A	PT	False	1.2	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		25	5	65	77.5	COAD	TCGA-AA-3870	71
+TCGA-AA-3872-01A	PT	False	1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		20	7.5	68.5	77.5	COAD	TCGA-AA-3872	45
+TCGA-AA-3877-01A	PT	False	0.9	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Transverse Colon	Colon Mucinous Adenocarcinoma		14	10	73.5	77.5	COAD	TCGA-AA-3877	83
+TCGA-AA-3930-01A	PT	False	1	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		5	5	85	85	COAD	TCGA-AA-3930	66
+TCGA-AA-3939-01A	PT	False	0.8	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		20	17.5	57.5	72.5	COAD	TCGA-AA-3939	83
+TCGA-AA-3941-01A	PT	False	0.7	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		5	12.5	77.5	80	COAD	TCGA-AA-3941	84
+TCGA-AA-3947-01A	PT	False	1.5	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Ascending Colon	Colon Mucinous Adenocarcinoma		2.5	15	78.5	72.5	COAD	TCGA-AA-3947	60
+TCGA-AA-3949-01A	PT	False	0.8	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Ascending Colon	Colon Mucinous Adenocarcinoma		0	32.5	58.5	70	COAD	TCGA-AA-3949	87
+TCGA-AA-3950-01A	PT	False	1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Ascending Colon	Colon Mucinous Adenocarcinoma		0	15	75	77.5	COAD	TCGA-AA-3950	79
+TCGA-AA-3952-01A	PT	False	0.9	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Descending Colon	Colon Adenocarcinoma		0.5	25	72.5	90	COAD	TCGA-AA-3952	68
+TCGA-AA-3955-01A	PT	False	0.6	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Descending Colon	Colon Adenocarcinoma		5	17	77	80	COAD	TCGA-AA-3955	38
+TCGA-AA-3956-01A	PT	False	1.5	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		12.5	17.5	69	70	COAD	TCGA-AA-3956	65
+TCGA-AA-3968-01A	PT	False	0.8	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	0	97.5	85	COAD	TCGA-AA-3968	55
+TCGA-AA-3970-01A	PT	False	1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		25	5	70	70	COAD	TCGA-AA-3970	65
+TCGA-AA-3971-01A	PT	False	0.6	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	10	85	92.5	COAD	TCGA-AA-3971	58
+TCGA-AA-3972-01A	PT	False	1	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		5	25	70	90	COAD	TCGA-AA-3972	72
+TCGA-AA-3973-01A	PT	False	0.9	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	7.5	85	90	COAD	TCGA-AA-3973	69
+TCGA-AA-3975-01A	PT	False	1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		10	15	75	87.5	COAD	TCGA-AA-3975	80
+TCGA-AA-3976-01A	PT	False	1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		10	15	75	85	COAD	TCGA-AA-3976	70
+TCGA-AA-3977-01A	PT	False	0.4	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	30	70	80	COAD	TCGA-AA-3977	65
+TCGA-AA-3979-01A	PT	False	0.8	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		5	0	90	87.5	COAD	TCGA-AA-3979	84
+TCGA-AA-3980-01A	PT	False	0.9	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		4.5	10	85	82.5	COAD	TCGA-AA-3980	89
+TCGA-AA-3982-01A	PT	False	1.1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	16.5	81.5	72.5	COAD	TCGA-AA-3982	75
+TCGA-AA-3984-01A	PT	False	1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		4.5	7.5	85	77.5	COAD	TCGA-AA-3984	61
+TCGA-AA-3986-01A	PT	False	1.2	Primary Tumor	1	0.9	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma		19	2.5	76	84.5	COAD	TCGA-AA-3986	73
+TCGA-AA-3989-01A	PT	False	1.5	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma		5	6.5	87	92	COAD	TCGA-AA-3989	84
+TCGA-4T-AA8H-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Descending Colon	Colon Mucinous Adenocarcinoma	TCGA-4T-AA8H-01A-01-TSA	25	15	60	60	COAD	TCGA-4T-AA8H	42
+TCGA-5M-AAT4-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma	TCGA-5M-AAT4-01A-01-TS1	5	20	70	70	COAD	TCGA-5M-AAT4	74
+TCGA-5M-AAT6-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma	TCGA-5M-AAT6-01A-01-TS1	5	15	80	80	COAD	TCGA-5M-AAT6	40
+TCGA-5M-AATE-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma	TCGA-5M-AATE-01A-01-TS1	8	8	80	80	COAD	TCGA-5M-AATE	76
+TCGA-AY-A8YK-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma	TCGA-AY-A8YK-01A-01-TS1	15	7	75	75	COAD	TCGA-AY-A8YK	44
+TCGA-NH-A6GC-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Descending Colon	Colon Mucinous Adenocarcinoma	TCGA-NH-A6GC-01A-01-TS1	0	33	65	65	COAD	TCGA-NH-A6GC	66
+TCGA-NH-A8F7-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma	TCGA-NH-A8F7-01A-01-TS1	0	70	26	80	COAD	TCGA-NH-A8F7	53
+TCGA-NH-A8F8-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma	TCGA-NH-A8F8-01A-07-TS7	0	48	40	85	COAD	TCGA-NH-A8F8	79
+TCGA-QL-A97D-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma	TCGA-QL-A97D-01A-01-TSA	10	5	80	80	COAD	TCGA-QL-A97D	84
+TCGA-WS-AB45-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Mucinous Adenocarcinoma	TCGA-WS-AB45-01A-01-TS1	5	0	95	75	COAD	TCGA-WS-AB45	52
+TCGA-AA-3966-01A	PT	False	0.9	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Hepatic Flexure	Colon Mucinous Adenocarcinoma		0	10	87.5	85	COAD	TCGA-AA-3966	89
+TCGA-AA-3967-01A	PT	False	1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	2.5	92.5	80	COAD	TCGA-AA-3967	77
+TCGA-AA-3994-01A	PT	False	0.8	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Transverse Colon	Colon Mucinous Adenocarcinoma		27.5	2.5	70	83	COAD	TCGA-AA-3994	69
+TCGA-AY-4070-01A	PT	False	0.5	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		10	7.5	81	77.5	COAD	TCGA-AY-4070	50
+TCGA-AY-4071-01A	PT	False	1	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Descending Colon	Colon Adenocarcinoma		10	10	71	70	COAD	TCGA-AY-4071	63
+TCGA-AA-A01P-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		0	26	72.5	75	COAD	TCGA-AA-A01P	80
+TCGA-AA-A01P-11A	STN	False	NA	Solid Tissue Normal	11	NA	A	Solid Tissue Normal	NT	Ascending colon			100	NA	0	NA	COAD	TCGA-AA-A01P	80
+TCGA-AA-A01R-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Ascending Colon	Colon Mucinous Adenocarcinoma		0	14.5	82.5	82.5	COAD	TCGA-AA-A01R	47
+TCGA-AA-A01R-11A	STN	False	NA	Solid Tissue Normal	11	NA	A	Solid Tissue Normal	NT	Ascending colon			100	NA	0	NA	COAD	TCGA-AA-A01R	47
+TCGA-AA-A01S-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	3.5	95	92.5	COAD	TCGA-AA-A01S	47
+TCGA-AA-A01S-11A	STN	False	NA	Solid Tissue Normal	11	NA	A	Solid Tissue Normal	NT	Sigmoid colon			100	NA	0	NA	COAD	TCGA-AA-A01S	47
+TCGA-AA-A01T-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		13.5	11	72.5	72.5	COAD	TCGA-AA-A01T	63
+TCGA-AA-A01T-11A	STN	False	NA	Solid Tissue Normal	11	NA	A	Solid Tissue Normal	NT	Sigmoid colon			100	NA	0	NA	COAD	TCGA-AA-A01T	63
+TCGA-AA-A01V-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	19.5	77.5	75	COAD	TCGA-AA-A01V	59
+TCGA-AA-A01V-11A	STN	False	NA	Solid Tissue Normal	11	NA	A	Solid Tissue Normal	NT	Cecum			100	NA	0	NA	COAD	TCGA-AA-A01V	59
+TCGA-AA-A01X-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		17.5	13	67.5	72.5	COAD	TCGA-AA-A01X	80
+TCGA-AA-A01X-11A	STN	False	NA	Solid Tissue Normal	11	NA	A	Solid Tissue Normal	NT	Sigmoid colon			100	NA	0	NA	COAD	TCGA-AA-A01X	80
+TCGA-AA-A01Z-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		12.5	9	77.5	77.5	COAD	TCGA-AA-A01Z	68
+TCGA-AA-A01Z-11A	STN	False	NA	Solid Tissue Normal	11	NA	A	Solid Tissue Normal	NT	Ascending colon			100	NA	0	NA	COAD	TCGA-AA-A01Z	68
+TCGA-AA-A022-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		3	10	80	85	COAD	TCGA-AA-A022	88
+TCGA-AA-A022-11A	STN	False	NA	Solid Tissue Normal	11	NA	A	Solid Tissue Normal	NT	Cecum			100	NA	0	NA	COAD	TCGA-AA-A022	88
+TCGA-AA-A02K-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		5.75	8.25	78.5	71.25	COAD	TCGA-AA-A02K	50
+TCGA-AA-A02O-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma		0	9	89	85	COAD	TCGA-AA-A02O	82
+TCGA-AA-A02O-11A	STN	False	NA	Solid Tissue Normal	11	NA	A	Solid Tissue Normal	NT	Transverse Colon			100	NA	0	NA	COAD	TCGA-AA-A02O	82
+TCGA-AA-A02Y-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		17.5	10	71.5	75	COAD	TCGA-AA-A02Y	73
+TCGA-AA-A03F-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Cecum	Colon Mucinous Adenocarcinoma		0	17.5	80	75	COAD	TCGA-AA-A03F	90
+TCGA-AA-A03F-11A	STN	False	NA	Solid Tissue Normal	11	NA	A	Solid Tissue Normal	NT	Cecum			100	NA	0	NA	COAD	TCGA-AA-A03F	90
+TCGA-AA-A03J-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		3.5	9	81	86	COAD	TCGA-AA-A03J	65
+TCGA-AA-A03J-11A	STN	False	NA	Solid Tissue Normal	11	NA	A	Solid Tissue Normal	NT	Sigmoid colon			100	NA	0	NA	COAD	TCGA-AA-A03J	65
+TCGA-A6-2671-01A	PT	False	1.8	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		10	10	75	75	COAD	TCGA-A6-2671	85
+TCGA-A6-2671-11A	STN	False	1.8	Solid Tissue Normal	11	0.5	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-A6-2671-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-A6-2671	85
+TCGA-A6-2679-01A	PT	False	1.2	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		12.5	12.5	70	70	COAD	TCGA-A6-2679	73
+TCGA-A6-2679-11A	STN	False	1.3	Solid Tissue Normal	11	0.4	A	Solid Tissue Normal	NT	Ascending colon		TCGA-A6-2679-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-A6-2679	73
+TCGA-A6-2680-01A	PT	False	1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Hepatic Flexure	Colon Adenocarcinoma		8.5	15	74	70	COAD	TCGA-A6-2680	72
+TCGA-A6-2680-11A	STN	False	1	Solid Tissue Normal	11	0.6	A	Solid Tissue Normal	NT	Hepatic Flexure		TCGA-A6-2680-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-A6-2680	72
+TCGA-A6-2681-01A	PT	False	1.4	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		30	10	56.5	72.5	COAD	TCGA-A6-2681	73
+TCGA-A6-2681-11A	STN	False	2	Solid Tissue Normal	11	0.5	A	Solid Tissue Normal	NT	Cecum		TCGA-A6-2681-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-A6-2681	73
+TCGA-A6-2682-01A	PT	False	2.5	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		0	27.5	65	72.5	COAD	TCGA-A6-2682	70
+TCGA-A6-2682-11A	STN	False	1.7	Solid Tissue Normal	11	0.5	A	Solid Tissue Normal	NT	Ascending colon		TCGA-A6-2682-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-A6-2682	70
+TCGA-A6-2684-01A	PT	False	1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		40	10	58.5	72.5	COAD	TCGA-A6-2684	75
+TCGA-A6-2684-01C	PT	True	NA	Primary Tumor	1	NA	C	Primary Solid Tumor	TP				17.5	0	82.5	82.5	COAD	TCGA-A6-2684	75
+TCGA-A6-2684-11A	STN	False	1.3	Solid Tissue Normal	11	0.7	A	Solid Tissue Normal	NT	Cecum		TCGA-A6-2684-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-A6-2684	75
+TCGA-A6-2685-01A	PT	False	2	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		45	5	49	72.5	COAD	TCGA-A6-2685	48
+TCGA-A6-2685-11A	STN	False	1.9	Solid Tissue Normal	11	0.4	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-A6-2685-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-A6-2685	48
+TCGA-A6-2686-01A	PT	False	2.2	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	10	82	75	COAD	TCGA-A6-2686	81
+TCGA-A6-2686-11A	STN	False	1	Solid Tissue Normal	11	0.6	A	Solid Tissue Normal	NT	Cecum		TCGA-A6-2686-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-A6-2686	81
+TCGA-A6-4107-01A	PT	False	1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		15	12.5	67.5	72.5	COAD	TCGA-A6-4107	57
+TCGA-A6-4107-11A	STN	False	2.2	Solid Tissue Normal	11	0.6	A	Solid Tissue Normal	NT	Ascending colon			NA	NA	NA	NA	COAD	TCGA-A6-4107	57
+TCGA-AA-3488-01A	PT	False	0.7	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		1.5	5	88.5	70	COAD	TCGA-AA-3488	58
+TCGA-AA-3488-11A	STN	False	1.2	Solid Tissue Normal	11	0.3	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-AA-3488-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3488	58
+TCGA-AA-3492-01A	PT	False	0.9	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		0	10	83.5	72.5	COAD	TCGA-AA-3492	90
+TCGA-AA-3492-11A	STN	False	1.1	Solid Tissue Normal	11	0.3	A	Solid Tissue Normal	NT	Ascending colon		TCGA-AA-3492-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3492	90
+TCGA-AA-3494-01A	PT	False	0.4	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	5	85	70	COAD	TCGA-AA-3494	55
+TCGA-AA-3494-11A	STN	False	0.7	Solid Tissue Normal	11	0.2	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-AA-3494-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3494	55
+TCGA-AA-3495-01A	PT	False	0.5	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Hepatic Flexure	Colon Adenocarcinoma		2.5	10	85	70	COAD	TCGA-AA-3495	79
+TCGA-AA-3495-11A	STN	False	1.5	Solid Tissue Normal	11	0.7	A	Solid Tissue Normal	NT	Hepatic Flexure		TCGA-AA-3495-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3495	79
+TCGA-AA-3502-01A	PT	False	1	Primary Tumor	1	0.9	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma		0	15	85	80	COAD	TCGA-AA-3502	73
+TCGA-AA-3502-11A	STN	False	1.4	Solid Tissue Normal	11	0.3	A	Solid Tissue Normal	NT	Transverse Colon		TCGA-AA-3502-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3502	73
+TCGA-AA-3506-01A	PT	False	1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Hepatic Flexure	Colon Adenocarcinoma		8.5	15	67.5	72.5	COAD	TCGA-AA-3506	77
+TCGA-AA-3506-11A	STN	False	1.2	Solid Tissue Normal	11	0.3	A	Solid Tissue Normal	NT	Hepatic Flexure		TCGA-AA-3506-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3506	77
+TCGA-AA-3509-01A	PT	False	0.7	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	11	82.5	75	COAD	TCGA-AA-3509	54
+TCGA-AA-3509-11A	STN	False	1	Solid Tissue Normal	11	0.1	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-AA-3509-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3509	54
+TCGA-AA-3510-01A	PT	False	1.4	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Transverse Colon	Colon Adenocarcinoma		8	7.5	72	75	COAD	TCGA-AA-3510	70
+TCGA-AA-3510-11A	STN	False	0.8	Solid Tissue Normal	11	0.2	A	Solid Tissue Normal	NT	Transverse Colon		TCGA-AA-3510-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-AA-3510	70
+TCGA-AZ-4308-01A	PT	False	1.5	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		17.5	5.5	78	80.5	COAD	TCGA-AZ-4308	47
+TCGA-AZ-4313-01A	PT	False	1	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Descending Colon	Colon Adenocarcinoma		0	0	100	87	COAD	TCGA-AZ-4313	51
+TCGA-AZ-4315-01A	PT	False	1.4	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	17.5	77.5	72.5	COAD	TCGA-AZ-4315	61
+TCGA-AZ-4614-01A	PT	False	2.1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	5	92.5	80	COAD	TCGA-AZ-4614	71
+TCGA-AZ-4615-01A	PT	False	1	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	10	77.5	75	COAD	TCGA-AZ-4615	84
+TCGA-AZ-4681-01A	PT	False	1	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		12.5	10	72.5	80	COAD	TCGA-AZ-4681	79
+TCGA-AZ-4682-01B	PT	False	1.2	Primary Tumor	1	0.5	B	Primary Solid Tumor	TP	Sigmoid Colon|Sigmoid Colon	Colon Adenocarcinoma|Colon Adenocarcinoma		20	12.5	64.5	72.5	COAD	TCGA-AZ-4682	61
+TCGA-AZ-4684-01A	PT	False	1.8	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Colon Adenocarcinoma		12.5	12.5	62.5	75	COAD	TCGA-AZ-4684	49
+TCGA-CA-5256-01A	PT	False	1.2	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Hepatic Flexure	Colon Adenocarcinoma		7.5	12.5	72.5	80	COAD	TCGA-CA-5256	54
+TCGA-CK-4951-01A	PT	False	0.5	Primary Tumor	1	0.1	A	Primary Solid Tumor	TP	Ascending Colon	Colon Mucinous Adenocarcinoma		4	17.5	78.5	75	COAD	TCGA-CK-4951	79
+TCGA-CM-4744-01A	PT	False	1.5	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		10	15	70	75	COAD	TCGA-CM-4744	69
+TCGA-CM-4746-01A	PT	False	1.6	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		12.5	15	72.5	80	COAD	TCGA-CM-4746	61
+TCGA-CM-4747-01A	PT	False	2.2	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		5	15	77	75	COAD	TCGA-CM-4747	47
+TCGA-CM-4748-01A	PT	False	1.8	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Transverse Colon	Colon Mucinous Adenocarcinoma		0.5	15	82.5	75	COAD	TCGA-CM-4748	53
+TCGA-CM-4750-01A	PT	False	1.7	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Colon Adenocarcinoma		7.5	15	67.5	70	COAD	TCGA-CM-4750	34
+TCGA-CM-4752-01A	PT	False	2.1	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		12.5	10	64	75	COAD	TCGA-CM-4752	58
+TCGA-CM-5341-01A	PT	False	2	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	11.5	82	75	COAD	TCGA-CM-5341	82
+TCGA-A6-5657-01A	PT	False	1.3	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		44	0	55	65	COAD	TCGA-A6-5657	65
+TCGA-A6-5657-11A	STN	False	0.9	Solid Tissue Normal	11	0.3	A	Solid Tissue Normal	NT	Ascending colon		TCGA-A6-5657-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-A6-5657	65
+TCGA-A6-5659-01A	PT	False	1.5	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		19.5	0	78.5	80	COAD	TCGA-A6-5659	82
+TCGA-A6-5659-01B	PT	True	NA	Primary Tumor	1	NA	B	Primary Solid Tumor	TP				0	27.5	61.5	82.5	COAD	TCGA-A6-5659	82
+TCGA-A6-5659-11A	STN	False	2.4	Solid Tissue Normal	11	0.6	A	Solid Tissue Normal	NT	Ascending colon		TCGA-A6-5659-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-A6-5659	82
+TCGA-A6-5660-01A	PT	False	1.5	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		3	7.5	86	85	COAD	TCGA-A6-5660	73
+TCGA-A6-5660-11A	STN	False	2.1	Solid Tissue Normal	11	0.6	A	Solid Tissue Normal	NT	Ascending colon		TCGA-A6-5660-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-A6-5660	73
+TCGA-A6-5661-01A	PT	False	1.1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		10	0	76.5	72	COAD	TCGA-A6-5661	80
+TCGA-A6-5661-01B	PT	True	NA	Primary Tumor	1	NA	B	Primary Solid Tumor	TP				NA	NA	NA	NA	COAD	TCGA-A6-5661	80
+TCGA-A6-5661-11A	STN	False	1.6	Solid Tissue Normal	11	0.8	A	Solid Tissue Normal	NT	Ascending colon		TCGA-A6-5661-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-A6-5661	80
+TCGA-A6-5662-01A	PT	False	0.8	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Splenic Flexure	Colon Adenocarcinoma		12.5	0	83.5	85	COAD	TCGA-A6-5662	46
+TCGA-A6-5662-11A	STN	False	1	Solid Tissue Normal	11	0.5	A	Solid Tissue Normal	NT	Splenic Flexure		TCGA-A6-5662-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-A6-5662	46
+TCGA-A6-5665-01A	PT	False	2	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		0	20	62.5	75	COAD	TCGA-A6-5665	84
+TCGA-A6-5665-01B	PT	True	NA	Primary Tumor	1	NA	B	Primary Solid Tumor	TP				NA	NA	NA	NA	COAD	TCGA-A6-5665	84
+TCGA-A6-5665-11A	STN	False	1.5	Solid Tissue Normal	11	0.9	A	Solid Tissue Normal	NT	Ascending colon		TCGA-A6-5665-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-A6-5665	84
+TCGA-A6-5666-01A	PT	False	1.9	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Sigmoid Colon|Sigmoid Colon	Colon Adenocarcinoma|Colon Adenocarcinoma		5	0	85	80	COAD	TCGA-A6-5666	78
+TCGA-A6-5666-11A	STN	False	1.2	Solid Tissue Normal	11	0.9	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-A6-5666-11A-01-TS1	NA	NA	NA	NA	COAD	TCGA-A6-5666	78
+TCGA-AD-5900-01A	PT	False	0.6	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Ascending Colon	Colon Mucinous Adenocarcinoma	TCGA-AD-5900-01A-01-TS1	0	15	85	85	COAD	TCGA-AD-5900	67
+TCGA-AM-5820-01A	PT	False	1.2	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	20	67.5	80	COAD	TCGA-AM-5820	59
+TCGA-AM-5821-01A	PT	False	0.9	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		8	10	72	75	COAD	TCGA-AM-5821	68
+TCGA-AY-5543-01A	PT	False	0.8	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma	TCGA-AY-5543-01A-01-TS1	15	10	82	80	COAD	TCGA-AY-5543	65
+TCGA-AZ-5403-01A	PT	False	1.4	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		6.5	32.5	61	75	COAD	TCGA-AZ-5403	43
+TCGA-CA-5796-01A	PT	False	1.3	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Ascending Colon	Colon Mucinous Adenocarcinoma		0	12.5	87.5	80	COAD	TCGA-CA-5796	52
+TCGA-CA-5797-01A	PT	False	1.6	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		3	22.5	74.5	80	COAD	TCGA-CA-5797	56
+TCGA-CK-4947-01B	PT	False	0.6	Primary Tumor	1	0.4	B	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		12.5	10	77.5	80	COAD	TCGA-CK-4947	46
+TCGA-CK-4948-01B	PT	False	0.7	Primary Tumor	1	0.3	B	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	20	80	75	COAD	TCGA-CK-4948	45
+TCGA-CK-5912-01A	PT	False	0.5	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma	TCGA-CK-5912-01A-01-TS1	0	15	85	80	COAD	TCGA-CK-5912	81
+TCGA-CK-5913-01A	PT	False	0.5	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma	TCGA-CK-5913-01A-01-TS1	0	20	78	80	COAD	TCGA-CK-5913	58
+TCGA-CK-5914-01A	PT	False	0.6	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		0	10	85	80	COAD	TCGA-CK-5914	81
+TCGA-CK-5915-01A	PT	False	0.5	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma	TCGA-CK-5915-01A-01-TS1	0	5	94	80	COAD	TCGA-CK-5915	63
+TCGA-CK-5916-01A	PT	False	0.8	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	15	85	80	COAD	TCGA-CK-5916	71
+TCGA-CM-5860-01A	PT	False	1.5	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		4.5	0	95	75	COAD	TCGA-CM-5860	44
+TCGA-CM-5861-01A	PT	False	2	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	0	94	77.5	COAD	TCGA-CM-5861	63
+TCGA-CM-5862-01A	PT	False	1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		0	0	99	85	COAD	TCGA-CM-5862	80
+TCGA-CM-5864-01A	PT	False	2	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		2.5	2	94.5	80	COAD	TCGA-CM-5864	60
+TCGA-CM-5868-01A	PT	False	1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		4	4	88.5	73	COAD	TCGA-CM-5868	59
+TCGA-CM-6161-01A	PT	False	2.5	Primary Tumor	1	0.8	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		4	10	77	80	COAD	TCGA-CM-6161	36
+TCGA-CM-6162-01A	PT	False	2.3	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Ascending Colon	Colon Mucinous Adenocarcinoma		6.5	15	72.5	76	COAD	TCGA-CM-6162	48
+TCGA-CM-6163-01A	PT	False	1	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		15	15	65	65	COAD	TCGA-CM-6163	74
+TCGA-CM-6164-01A	PT	False	2.5	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		1	15	80.5	80	COAD	TCGA-CM-6164	46
+TCGA-CM-6165-01A	PT	False	0.7	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		1	20	64	80	COAD	TCGA-CM-6165	74
+TCGA-CM-6166-01A	PT	False	2	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		2.5	17.5	72	82.5	COAD	TCGA-CM-6166	48
+TCGA-CM-6167-01A	PT	False	2	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		1.5	32.5	65.5	70	COAD	TCGA-CM-6167	57
+TCGA-CM-6168-01A	PT	False	1.9	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		11.5	24	59.5	70	COAD	TCGA-CM-6168	84
+TCGA-CM-6169-01A	PT	False	1.4	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma		0	17.5	74	77.5	COAD	TCGA-CM-6169	67
+TCGA-CM-6170-01A	PT	False	1.2	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Descending Colon	Colon Adenocarcinoma		20	12.5	62.5	67.5	COAD	TCGA-CM-6170	73
+TCGA-CM-6171-01A	PT	False	1.7	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Ascending Colon	Colon Adenocarcinoma		2.5	8	81.5	85	COAD	TCGA-CM-6171	77
+TCGA-CM-6172-01A	PT	False	1.5	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma		16.5	12.5	65	80	COAD	TCGA-CM-6172	70
+TCGA-D5-5538-01A	PT	False	1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma	TCGA-D5-5538-01A-01-TS1	0	0	95	80	COAD	TCGA-D5-5538	60
+TCGA-D5-5539-01A	PT	False	0.7	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Ascending Colon	Colon Mucinous Adenocarcinoma	TCGA-D5-5539-01A-01-TS1	0	10	90	80	COAD	TCGA-D5-5539	60
+TCGA-D5-5540-01A	PT	False	2	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Cecum	Colon Adenocarcinoma	TCGA-D5-5540-01A-01-TS1	0	0	95	80	COAD	TCGA-D5-5540	73
+TCGA-D5-5541-01A	PT	False	0.7	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Sigmoid Colon	Colon Adenocarcinoma	TCGA-D5-5541-01A-01-TS1	0	10	80	80	COAD	TCGA-D5-5541	63
+TCGA-AF-5654-01A	PT	False	1.1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		0	15	85	80	READ	TCGA-AF-5654	73
+TCGA-AF-5654-11A	STN	False	1.3	Solid Tissue Normal	11	0.9	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-AF-5654-11A-01-TS1	NA	NA	NA	NA	READ	TCGA-AF-5654	73
+TCGA-AG-3732-01A	PT	False	0.7	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	12.5	87.5	75	READ	TCGA-AG-3732	78
+TCGA-AG-3732-11A	STN	False	1	Solid Tissue Normal	11	0.6	A	Solid Tissue Normal	NT	Rectosigmoid Junction		TCGA-AG-3732-11A-01-TS1	NA	NA	NA	NA	READ	TCGA-AG-3732	78
+TCGA-AG-3742-01A	PT	False	0.9	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	20	72.5	67.5	READ	TCGA-AG-3742	85
+TCGA-AG-3742-11A	STN	False	1.2	Solid Tissue Normal	11	0.3	A	Solid Tissue Normal	NT	Rectosigmoid Junction		TCGA-AG-3742-11A-01-TS1	NA	NA	NA	NA	READ	TCGA-AG-3742	85
+TCGA-CL-5917-01A	PT	False	0.5	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma	TCGA-CL-5917-01A-01-TS1	0	20	79	80	READ	TCGA-CL-5917	71
+TCGA-CL-5918-01A	PT	False	0.6	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		7.5	10	76.5	77.5	READ	TCGA-CL-5918	90
+TCGA-DC-5337-01A	PT	False	1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		0	7	90	80	READ	TCGA-DC-5337	69
+TCGA-DC-5869-01A	PT	False	2	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		5.5	0	89.5	77.5	READ	TCGA-DC-5869	62
+TCGA-DC-6155-01A	PT	False	2	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		1	10	84	75	READ	TCGA-DC-6155	31
+TCGA-DC-6156-01A	PT	False	1.5	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		0	30	66	65	READ	TCGA-DC-6156	62
+TCGA-DC-6157-01A	PT	False	1.2	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		1.5	15	78.5	80	READ	TCGA-DC-6157	48
+TCGA-DC-6158-01A	PT	False	1.5	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		9	20	66	70	READ	TCGA-DC-6158	70
+TCGA-DC-6160-01A	PT	False	1.2	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		15	10	68.5	72.5	READ	TCGA-DC-6160	68
+TCGA-EF-5830-01A	PT	False	1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	15	74	80	READ	TCGA-EF-5830	54
+TCGA-EF-5831-01A	PT	False	0.9	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	16.5	77	80	READ	TCGA-EF-5831	72
+TCGA-AF-2687-01A	PT	False	1.8	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		45	5	43.5	70	READ	TCGA-AF-2687	57
+TCGA-AF-2690-01A	PT	False	2	Primary Tumor	1	0.7	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		22.5	12.5	65	70	READ	TCGA-AF-2690	76
+TCGA-AF-2693-01A	PT	False	1.4	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Sigmoid Colon			10	10	78	65	READ	TCGA-AF-2693	75
+TCGA-AF-3911-01A	PT	False	0.7	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		56.6666666666667	6.66666666666667	31.6666666666667	58.3333333333333	READ	TCGA-AF-3911	48
+TCGA-AF-4110-01A	PT	False	1.6	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Rectosigmoid Junction			45	6	46.3333333333333	51.6666666666667	READ	TCGA-AF-4110	77
+TCGA-AG-3591-01A	PT	False	1.1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		2.5	7.5	86	77.5	READ	TCGA-AG-3591	66
+TCGA-AG-3592-01A	PT	False	1.2	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	9	83.5	77.5	READ	TCGA-AG-3592	68
+TCGA-AG-3725-01A	PT	False	0.8	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		2.5	11	86	70	READ	TCGA-AG-3725	90
+TCGA-AG-3725-11A	STN	False	1	Solid Tissue Normal	11	0.5	A	Solid Tissue Normal	NT	Rectum		TCGA-AG-3725-11A-01-TS1	NA	NA	NA	NA	READ	TCGA-AG-3725	90
+TCGA-AG-3731-01A	PT	False	1.6	Primary Tumor	1	0.8	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		45	9	42.5	37.5	READ	TCGA-AG-3731	65
+TCGA-AG-3731-11A	STN	False	1.5	Solid Tissue Normal	11	0.3	A	Solid Tissue Normal	NT	Rectum		TCGA-AG-3731-11A-01-TS1	NA	NA	NA	NA	READ	TCGA-AG-3731	65
+TCGA-AG-4021-01A	PT	False	1.3	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	20	72.5	80	READ	TCGA-AG-4021	84
+TCGA-AG-4022-01A	PT	False	1.3	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		14	12.5	69.5	77.5	READ	TCGA-AG-4022	59
+TCGA-BM-6198-01A	PT	False	1	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	17.5	76	72.5	READ	TCGA-BM-6198	73
+TCGA-CL-4957-01A	PT	False	0.6	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		17.5	17.5	61.5	72.5	READ	TCGA-CL-4957	79
+TCGA-DC-4745-01A	PT	False	1.5	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		1.5	20	75.5	75	READ	TCGA-DC-4745	49
+TCGA-DC-4749-01A	PT	False	2.5	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		0	15	80	75	READ	TCGA-DC-4749	57
+TCGA-EI-6506-01A	PT	False	1.1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		7.5	17.5	68.5	72.5	READ	TCGA-EI-6506	78
+TCGA-EI-6507-01A	PT	False	1.5	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	17.5	67.5	80	READ	TCGA-EI-6507	60
+TCGA-EI-6508-01A	PT	False	1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		5	14	77	77.5	READ	TCGA-EI-6508	48
+TCGA-EI-6509-01A	PT	False	1	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	32.5	61	80	READ	TCGA-EI-6509	53
+TCGA-EI-6510-01A	PT	False	1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		12.5	10	70	75	READ	TCGA-EI-6510	77
+TCGA-EI-6511-01A	PT	False	0.9	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	17.5	76	75	READ	TCGA-EI-6511	52
+TCGA-EI-6512-01A	PT	False	0.9	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		2.5	12.5	72.5	80	READ	TCGA-EI-6512	64
+TCGA-EI-6513-01A	PT	False	0.8	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma	TCGA-EI-6513-01A-01-BS1	0	25	60	75	READ	TCGA-EI-6513	59
+TCGA-EI-6514-01A	PT	False	0.7	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		0	40	52	80	READ	TCGA-EI-6514	59
+TCGA-F5-6464-01A	PT	False	2	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0.5	0	97.5	75	READ	TCGA-F5-6464	77
+TCGA-F5-6465-01A	PT	False	2	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		7.5	0	88.5	80	READ	TCGA-F5-6465	64
+TCGA-G5-6233-01A	PT	False	1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0.5	0	98.5	87.5	READ	TCGA-G5-6233	74
+TCGA-G5-6235-01A	PT	False	1.3	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		28.5	0	69.5	75.5	READ	TCGA-G5-6235	72
+TCGA-DY-A0XA-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		0	0	85	85	READ	TCGA-DY-A0XA	57
+TCGA-DY-A1DC-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma	TCGA-DY-A1DC-01A-03-TS3	5	5	90	75	READ	TCGA-DY-A1DC	72
+TCGA-DY-A1DD-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma	TCGA-DY-A1DD-01A-02-TSB	0	0	100	80	READ	TCGA-DY-A1DD	77
+TCGA-DY-A1DE-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma	TCGA-DY-A1DE-01A-01-TS1	0	20	75	60	READ	TCGA-DY-A1DE	56
+TCGA-DY-A1DF-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma	TCGA-DY-A1DF-01A-01-TSA	0	0	90	80	READ	TCGA-DY-A1DF	73
+TCGA-DY-A1DG-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma	TCGA-DY-A1DG-01A-01-TSA	0	0	100	95	READ	TCGA-DY-A1DG	75
+TCGA-DY-A1H8-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma	TCGA-DY-A1H8-01A-02-TSB	0	0	100	80	READ	TCGA-DY-A1H8	77
+TCGA-AF-6136-01A	PT	False	1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		18.5	0	80.5	75	READ	TCGA-AF-6136	72
+TCGA-AF-6655-01A	PT	False	1.1	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		10.5	15	73.5	57.5	READ	TCGA-AF-6655	66
+TCGA-AF-6672-01A	PT	False	1	Primary Tumor	1	0.8	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		6.5	12.5	78.5	80	READ	TCGA-AF-6672	43
+TCGA-AH-6544-01A	PT	False	0.7	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		16.5	21	57.5	60	READ	TCGA-AH-6544	60
+TCGA-AH-6547-01A	PT	False	1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		20.5	10	66.5	60.5	READ	TCGA-AH-6547	79
+TCGA-AH-6547-11A	STN	False	0.6	Solid Tissue Normal	11	0.5	A	Solid Tissue Normal	NT	Rectosigmoid Junction		TCGA-AH-6547-11A-01-TS1	NA	NA	NA	NA	READ	TCGA-AH-6547	79
+TCGA-AH-6549-01A	PT	False	0.8	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	12.5	77.5	80	READ	TCGA-AH-6549	66
+TCGA-AH-6643-01A	PT	False	0.8	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		0	22.5	61	85	READ	TCGA-AH-6643	50
+TCGA-AH-6643-11A	STN	False	1	Solid Tissue Normal	11	0.3	A	Solid Tissue Normal	NT	Rectosigmoid Junction		TCGA-AH-6643-11A-01-TS1	NA	NA	NA	NA	READ	TCGA-AH-6643	50
+TCGA-AH-6644-01A	PT	False	0.9	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma	TCGA-AH-6644-01A-01-BS1	0	25	60	75	READ	TCGA-AH-6644	73
+TCGA-CI-6619-01B	PT	False	0.3	Primary Tumor	1	0.3	B	Primary Solid Tumor	TP		Rectal Adenocarcinoma|Rectal Adenocarcinoma	TCGA-CI-6619-01B-01-TS1	0	5	95	70	READ	TCGA-CI-6619	41
+TCGA-CI-6620-01A	PT	False	0.5	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma|Rectal Adenocarcinoma	TCGA-CI-6620-01A-01-TS1	15	15	70	65	READ	TCGA-CI-6620	41
+TCGA-CI-6621-01A	PT	False	0.9	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		20	15	61	57.5	READ	TCGA-CI-6621	63
+TCGA-CI-6622-01A	PT	False	0.7	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma|Rectal Adenocarcinoma	TCGA-CI-6622-01A-01-TS1	5	15	75	75	READ	TCGA-CI-6622	74
+TCGA-CI-6623-01B	PT	False	0.4	Primary Tumor	1	0.1	B	Primary Solid Tumor	TP		Rectal Adenocarcinoma|Rectal Adenocarcinoma	TCGA-CI-6623-01B-01-TS1	0	15	85	65	READ	TCGA-CI-6623	44
+TCGA-CI-6624-01C	PT	False	0.5	Primary Tumor	1	0.2	C	Primary Solid Tumor	TP			TCGA-CI-6624-01C-01-TS1	15	25	55	65	READ	TCGA-CI-6624	53
+TCGA-DC-6681-01A	PT	False	2.2	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		2.5	25	72.5	80	READ	TCGA-DC-6681	70
+TCGA-DC-6682-01A	PT	False	1.2	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		0	25	69.5	77.5	READ	TCGA-DC-6682	57
+TCGA-DC-6683-01A	PT	False	1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		0	20	73.5	75	READ	TCGA-DC-6683	43
+TCGA-DT-5265-01A	PT	False	1.5	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP		Rectal Mucinous Adenocarcinoma		0	30	65	80	READ	TCGA-DT-5265	51
+TCGA-F5-6571-01A	PT	False	2.7	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		2.5	20	67.5	80	READ	TCGA-F5-6571	62
+TCGA-F5-6702-01A	PT	False	2.8	Primary Tumor	1	0.8	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		5	17.5	76	80	READ	TCGA-F5-6702	71
+TCGA-F5-6810-01A	PT	False	3.3	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		20	NA	75	80	READ	TCGA-F5-6810	71
+TCGA-F5-6811-01A	PT	False	1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		5	NA	95.5	80	READ	TCGA-F5-6811	72
+TCGA-F5-6812-01A	PT	False	2.5	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		NA	4	97	70	READ	TCGA-F5-6812	67
+TCGA-F5-6813-01A	PT	False	2.5	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		15	NA	80	80	READ	TCGA-F5-6813	70
+TCGA-G5-6572-01A	PT	False	1.2	Primary Tumor	1	0.8	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		0	30	60	80	READ	TCGA-G5-6572	56
+TCGA-G5-6641-01A	PT	False	0.9	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Mucinous Adenocarcinoma	TCGA-G5-6641-01A-01-TS1	0	0	100	80	READ	TCGA-G5-6641	67
+TCGA-AH-6897-01A	PT	False	0.7	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		0	21.5	77.5	85	READ	TCGA-AH-6897	48
+TCGA-AH-6903-01A	PT	False	0.4	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Mucinous Adenocarcinoma	TCGA-AH-6903-01A-01-TS1	3	25	69	75	READ	TCGA-AH-6903	46
+TCGA-DC-6154-01A	PT	False	2	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma	TCGA-DC-6154-01A-02-BS2	0	10	70	70	READ	TCGA-DC-6154	57
+TCGA-EI-6881-01A	PT	False	1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		0	7.5	88.5	85	READ	TCGA-EI-6881	60
+TCGA-EI-6882-01A	PT	False	0.9	Primary Tumor	1	0.7	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Mucinous Adenocarcinoma		5	5	90	85	READ	TCGA-EI-6882	59
+TCGA-EI-6883-01A	PT	False	1	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	30	52.5	77.5	READ	TCGA-EI-6883	63
+TCGA-EI-6884-01A	PT	False	0.9	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		13.5	13.5	73	71.5	READ	TCGA-EI-6884	71
+TCGA-EI-6885-01A	PT	False	1.7	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		0	22.5	71	75	READ	TCGA-EI-6885	57
+TCGA-EI-6917-01A	PT	False	1.4	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	51	35	55	READ	TCGA-EI-6917	33
+TCGA-EI-7002-01A	PT	False	1	Primary Tumor	1	0.8	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	13.5	75	80	READ	TCGA-EI-7002	58
+TCGA-EI-7004-01A	PT	False	0.9	Primary Tumor	1	0.7	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Mucinous Adenocarcinoma		2.5	7.5	90	72.5	READ	TCGA-EI-7004	37
+TCGA-F5-6814-01A	PT	False	1.8	Primary Tumor	1	0.7	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	5	90	75	READ	TCGA-F5-6814	57
+TCGA-F5-6861-01A	PT	False	2.2	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		4	15	81	80	READ	TCGA-F5-6861	60
+TCGA-F5-6863-01A	PT	False	1.8	Primary Tumor	1	0.8	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		2	15	81	80	READ	TCGA-F5-6863	71
+TCGA-F5-6864-01A	PT	False	1.3	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	25	70	80	READ	TCGA-F5-6864	74
+TCGA-AF-A56K-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Rectal Adenocarcinoma	TCGA-AF-A56K-01A-03-TS3	0	0	97	60	READ	TCGA-AF-A56K	56
+TCGA-AF-A56L-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP	Sigmoid Colon	Rectal Adenocarcinoma	TCGA-AF-A56L-01A-03-TSC	12	0	85	60	READ	TCGA-AF-A56L	48
+TCGA-AF-A56N-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma	TCGA-AF-A56N-01A-01-TSA	20	5	70	60	READ	TCGA-AF-A56N	47
+TCGA-AF-2689-01A	PT	False	1.4	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		0	10	87	80	READ	TCGA-AF-2689	41
+TCGA-AF-2689-11A	STN	False	1.5	Solid Tissue Normal	11	0.6	A	Solid Tissue Normal	NT	Rectosigmoid Junction		TCGA-AF-2689-11A-01-TS1	NA	NA	NA	NA	READ	TCGA-AF-2689	41
+TCGA-AF-2691-01A	PT	False	2	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		6	12.5	78.5	70	READ	TCGA-AF-2691	48
+TCGA-AF-2691-11A	STN	False	1.5	Solid Tissue Normal	11	0.7	A	Solid Tissue Normal	NT	Rectosigmoid Junction		TCGA-AF-2691-11A-01-TS1	NA	NA	NA	NA	READ	TCGA-AF-2691	48
+TCGA-AF-2692-01A	PT	False	1.5	Primary Tumor	1	0.7	A	Primary Solid Tumor	TP	Sigmoid Colon			12.5	5	81	80	READ	TCGA-AF-2692	54
+TCGA-AF-2692-11A	STN	False	2	Solid Tissue Normal	11	0.7	A	Solid Tissue Normal	NT	Sigmoid colon		TCGA-AF-2692-11A-01-TS1	NA	NA	NA	NA	READ	TCGA-AF-2692	54
+TCGA-AF-3400-01A	PT	False	2.5	Primary Tumor	1	0.7	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Mucinous Adenocarcinoma		1.5	8.5	90	80	READ	TCGA-AF-3400	54
+TCGA-AF-3400-11A	STN	False	2.2	Solid Tissue Normal	11	0.8	A	Solid Tissue Normal	NT	Rectosigmoid Junction		TCGA-AF-3400-11A-01-TS1	NA	NA	NA	NA	READ	TCGA-AF-3400	54
+TCGA-AG-3574-01A	PT	False	1.5	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		3.5	10	67.5	75	READ	TCGA-AG-3574	89
+TCGA-AG-3575-01A	PT	False	1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	13.5	83.5	85	READ	TCGA-AG-3575	51
+TCGA-AG-3578-01A	PT	False	1.4	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Mucinous Adenocarcinoma		0	6.5	90.5	85	READ	TCGA-AG-3578	76
+TCGA-AG-3580-01A	PT	False	1.7	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		5	6	79	80	READ	TCGA-AG-3580	67
+TCGA-AG-3581-01A	PT	False	1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		10	10	75	75	READ	TCGA-AG-3581	63
+TCGA-AG-3582-01A	PT	False	0.9	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		5.5	10	76.5	72.5	READ	TCGA-AG-3582	75
+TCGA-AG-3583-01A	PT	False	0.9	Primary Tumor	1	0.7	A	Primary Solid Tumor	TP		Rectal Mucinous Adenocarcinoma		6.5	8.5	76	75	READ	TCGA-AG-3583	66
+TCGA-AG-3584-01A	PT	False	1.4	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		15	5	73.5	75	READ	TCGA-AG-3584	60
+TCGA-AG-3586-01A	PT	False	1.1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP				5	5	81	72.5	READ	TCGA-AG-3586	72
+TCGA-AG-3587-01A	PT	False	1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	8.5	79	77.5	READ	TCGA-AG-3587	65
+TCGA-AG-3593-01A	PT	False	1.5	Primary Tumor	1	0.9	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		1	8.5	90	87.5	READ	TCGA-AG-3593	72
+TCGA-AG-3594-01A	PT	False	2	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP		Rectal Mucinous Adenocarcinoma		1.5	12.5	86	82.5	READ	TCGA-AG-3594	77
+TCGA-AG-3598-01A	PT	False	0.9	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		20	5	75	75	READ	TCGA-AG-3598	69
+TCGA-AG-3599-01A	PT	False	1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP				15	5	80	80	READ	TCGA-AG-3599	70
+TCGA-AG-3600-01A	PT	False	1.4	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		10	5	85	85	READ	TCGA-AG-3600	62
+TCGA-AG-3601-01A	PT	False	1.3	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		10	5	80	85	READ	TCGA-AG-3601	68
+TCGA-AG-3602-01A	PT	False	1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		12.5	5	80	82.5	READ	TCGA-AG-3602	66
+TCGA-AG-3605-01A	PT	False	1	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		7.5	1.5	86	95	READ	TCGA-AG-3605	85
+TCGA-AG-3608-01A	PT	False	0.8	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		14	9	76	89	READ	TCGA-AG-3608	79
+TCGA-AG-3609-01A	PT	False	0.8	Primary Tumor	1	0.1	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		2.5	22.5	70	85	READ	TCGA-AG-3609	65
+TCGA-AG-3611-01A	PT	False	0.8	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		4	21	75	84	READ	TCGA-AG-3611	72
+TCGA-AG-3612-01A	PT	False	0.8	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		5	11.5	82.5	88	READ	TCGA-AG-3612	55
+TCGA-AG-3726-01A	PT	False	0.8	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	11	85	75	READ	TCGA-AG-3726	63
+TCGA-AG-3727-01A	PT	False	1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		1	15	79	70	READ	TCGA-AG-3727	78
+TCGA-AG-3728-01A	PT	False	0.8	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		22.5	14	60	60	READ	TCGA-AG-3728	73
+TCGA-AG-3878-01A	PT	False	1	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		15	10	71	75	READ	TCGA-AG-3878	64
+TCGA-AG-3881-01A	PT	False	0.7	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Mucinous Adenocarcinoma		36.5	3.5	63	70	READ	TCGA-AG-3881	83
+TCGA-AG-3882-01A	PT	False	0.8	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		NA	7.5	84	70	READ	TCGA-AG-3882	66
+TCGA-AG-3883-01A	PT	False	0.9	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	35	50	70	READ	TCGA-AG-3883	69
+TCGA-AG-3885-01A	PT	False	1	Primary Tumor	1	0.5	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		11.5	5	77	75	READ	TCGA-AG-3885	71
+TCGA-AG-A002-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	6.5	92.25	87.5	READ	TCGA-AG-A002	35
+TCGA-AG-A008-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Mucinous Adenocarcinoma		10	9	80	85	READ	TCGA-AG-A008	50
+TCGA-AG-A00C-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	11.5	87.5	81.25	READ	TCGA-AG-A00C	49
+TCGA-AG-A00H-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	19	72.5	72.5	READ	TCGA-AG-A00H	75
+TCGA-AG-A00Y-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		1.5	9.5	86.5	87.5	READ	TCGA-AG-A00Y	68
+TCGA-AG-A011-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		11	11.75	75.75	75	READ	TCGA-AG-A011	80
+TCGA-AG-A014-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	9.5	87.5	85	READ	TCGA-AG-A014	86
+TCGA-AG-A015-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		7.5	7.25	84.25	82.5	READ	TCGA-AG-A015	64
+TCGA-AG-A016-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		2	4.75	92.25	82.5	READ	TCGA-AG-A016	55
+TCGA-AG-A01J-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		10	16	72.5	77.5	READ	TCGA-AG-A01J	59
+TCGA-AG-A01L-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		6.25	7.5	84.75	75	READ	TCGA-AG-A01L	58
+TCGA-AG-A01N-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		6.25	4.25	88.25	82.5	READ	TCGA-AG-A01N	68
+TCGA-AG-A023-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		26.5	7	65	75	READ	TCGA-AG-A023	62
+TCGA-AG-A025-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		9.25	18	71.25	75	READ	TCGA-AG-A025	62
+TCGA-AG-A02G-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		2.5	9.75	85.75	76.25	READ	TCGA-AG-A02G	66
+TCGA-AG-A02X-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		6.25	11.5	80.25	73.75	READ	TCGA-AG-A02X	77
+TCGA-AG-A032-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		5	25	68	70	READ	TCGA-AG-A032	68
+TCGA-AF-3913-01A	PT	False	1.6	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		2.5	20	73.5	70	READ	TCGA-AF-3913	60
+TCGA-AF-3913-11A	STN	False	1.4	Solid Tissue Normal	11	0.5	A	Solid Tissue Normal	NT	Sigmoid colon			NA	NA	NA	NA	READ	TCGA-AF-3913	60
+TCGA-AF-3914-01A	PT	False	2.2	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP	Rectosigmoid Junction	Rectal Adenocarcinoma		20	11	64	72.5	READ	TCGA-AF-3914	39
+TCGA-AF-3914-11A	STN	False	1.7	Solid Tissue Normal	11	0.5	A	Solid Tissue Normal	NT	Sigmoid colon			NA	NA	NA	NA	READ	TCGA-AF-3914	39
+TCGA-AG-3887-01A	PT	False	0.8	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP		Rectal Mucinous Adenocarcinoma		0	6.5	85	80	READ	TCGA-AG-3887	68
+TCGA-AG-3890-01A	PT	False	1	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	17.5	76	72.5	READ	TCGA-AG-3890	62
+TCGA-AG-3891-01A	PT	False	0.9	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		14	16	62.5	70	READ	TCGA-AG-3891	66
+TCGA-AG-3892-01A	PT	False	0.7	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		2.5	8.5	86	75	READ	TCGA-AG-3892	57
+TCGA-AG-3893-01A	PT	False	1	Primary Tumor	1	0.6	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		5	20	70	75	READ	TCGA-AG-3893	74
+TCGA-AG-3894-01A	PT	False	0.9	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	10	83.5	80	READ	TCGA-AG-3894	65
+TCGA-AG-3896-01A	PT	False	0.8	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		32.5	7.5	52	70	READ	TCGA-AG-3896	85
+TCGA-AG-3898-01A	PT	False	1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		12.5	25	50	72.5	READ	TCGA-AG-3898	61
+TCGA-AG-3901-01A	PT	False	1.3	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Mucinous Adenocarcinoma		20	22.5	50	70	READ	TCGA-AG-3901	67
+TCGA-AG-3902-01A	PT	False	1.1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		15	10	63.5	70	READ	TCGA-AG-3902	61
+TCGA-AG-3906-01A	PT	False	0.7	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		16	9	72	70	READ	TCGA-AG-3906	67
+TCGA-AG-3909-01A	PT	False	0.8	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		6.5	14	75.5	77.5	READ	TCGA-AG-3909	69
+TCGA-AG-3999-01A	PT	False	0.7	Primary Tumor	1	0.2	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		5	20	70	80	READ	TCGA-AG-3999	61
+TCGA-AG-4001-01A	PT	False	1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	35	60	75	READ	TCGA-AG-4001	74
+TCGA-AG-4005-01A	PT	False	0.7	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		15	10	70	80	READ	TCGA-AG-4005	64
+TCGA-AG-4007-01A	PT	False	1.1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		17.5	7.5	70	75	READ	TCGA-AG-4007	87
+TCGA-AG-4008-01A	PT	False	1	Primary Tumor	1	0.4	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		22.5	15	59.5	70	READ	TCGA-AG-4008	63
+TCGA-AG-4009-01A	PT	False	0.6	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	30	67	72.5	READ	TCGA-AG-4009	83
+TCGA-AG-4015-01A	PT	False	1.2	Primary Tumor	1	0.3	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma|Rectal Mucinous Adenocarcinoma		11.5	10	76	80	READ	TCGA-AG-4015	85
+TCGA-AG-A01W-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		9	6.5	82.5	80	READ	TCGA-AG-A01W	67
+TCGA-AG-A01W-11A	STN	False	NA	Solid Tissue Normal	11	NA	A	Solid Tissue Normal	NT	Rectum			100	NA	0	NA	READ	TCGA-AG-A01W	67
+TCGA-AG-A01Y-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		4	17.5	77.5	77.5	READ	TCGA-AG-A01Y	49
+TCGA-AG-A01Y-11A	STN	False	NA	Solid Tissue Normal	11	NA	A	Solid Tissue Normal	NT	Rectum			100	NA	0	NA	READ	TCGA-AG-A01Y	49
+TCGA-AG-A020-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Mucinous Adenocarcinoma		0	8	89	85	READ	TCGA-AG-A020	57
+TCGA-AG-A020-11A	STN	False	NA	Solid Tissue Normal	11	NA	A	Solid Tissue Normal	NT	Rectum			100	NA	0	NA	READ	TCGA-AG-A020	57
+TCGA-AG-A026-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		25.5	13.75	44.5	63.75	READ	TCGA-AG-A026	66
+TCGA-AG-A02N-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	10.5	87.5	82.5	READ	TCGA-AG-A02N	67
+TCGA-AG-A02N-11A	STN	False	NA	Solid Tissue Normal	11	NA	A	Solid Tissue Normal	NT	Rectum			100	NA	0	NA	READ	TCGA-AG-A02N	67
+TCGA-AG-A036-01A	PT	False	NA	Primary Tumor	1	NA	A	Primary Solid Tumor	TP		Rectal Adenocarcinoma		0	16	82.5	85	READ	TCGA-AG-A036	71
+TCGA-AG-A036-11A	STN	False	NA	Solid Tissue Normal	11	NA	A	Solid Tissue Normal	NT	Rectum			100	NA	0	NA	READ	TCGA-AG-A036	71

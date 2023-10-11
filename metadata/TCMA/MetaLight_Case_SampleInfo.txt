@@ -1,0 +1,631 @@
+bcr_patient_barcode	acronym	gender	vital_status	age_at_initial_pathologic_diagnosis	history_of_neoadjuvant_treatment	tumor_tissue_site	new_tumor_event_after_initial_treatment	radiation_therapy	race	histological_type	pathologic_stage	height	weight	colon_polyps_present	isAdenocarcinoma	tss_site	tss_bcr	project	num_PT	num_STN
+TCGA-3L-AA1B	COAD	FEMALE	Alive	61	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage I	173	63.3	True	True	Albert Einstein Medical Center	NCH	COAD	1	0
+TCGA-4N-A93T	COAD	MALE	Alive	67	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIIB	167.64	134	True	True	Mary Bird Perkins Cancer Center - Our Lady of the Lake	NCH	COAD	1	0
+TCGA-4T-AA8H	COAD	FEMALE	Alive	42	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Mucinous Adenocarcinoma	Stage IIA	167.6	107.956	False	True	Duke University	NCH	COAD	1	0
+TCGA-5M-AAT4	COAD	MALE	Dead	74	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IV	NA	NA	True	True	University of Sao Paulo	NCH	COAD	1	0
+TCGA-5M-AAT6	COAD	FEMALE	Dead	40	No	Colon	True	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IV	162	99.1	True	True	University of Sao Paulo	NCH	COAD	1	0
+TCGA-5M-AATE	COAD	MALE	Alive	76	No	Colon	True	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIA	177	75.4	False	True	University of Sao Paulo	NCH	COAD	1	0
+TCGA-A6-2670	COAD	MALE	Alive	45	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	175.3	90.9	False	True	Christiana Healthcare	IGC	COAD	1	0
+TCGA-A6-2671	COAD	MALE	Dead	85	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IV	182.8	67.2	False	True	Christiana Healthcare	IGC	COAD	1	1
+TCGA-A6-2672	COAD	FEMALE	Alive	82	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIB	157	51.5	False	True	Christiana Healthcare	IGC	COAD	2	1
+TCGA-A6-2674	COAD	MALE	Alive	71	No	Colon	True	False	WHITE	Colon Mucinous Adenocarcinoma	Stage IV	175.2	85.6	False	True	Christiana Healthcare	IGC	COAD	2	1
+TCGA-A6-2675	COAD	MALE	Alive	78	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	160	71.3	False	True	Christiana Healthcare	IGC	COAD	1	1
+TCGA-A6-2676	COAD	FEMALE	Dead	75	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIB	154.9	45.9	False	True	Christiana Healthcare	IGC	COAD	1	1
+TCGA-A6-2677	COAD	FEMALE	Dead	68	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIC	160	55.2	False	True	Christiana Healthcare	IGC	COAD	2	1
+TCGA-A6-2678	COAD	FEMALE	Alive	43	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIB	171	96.1	False	True	Christiana Healthcare	IGC	COAD	1	1
+TCGA-A6-2679	COAD	FEMALE	Alive	73	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIB	165.1	65.9	False	True	Christiana Healthcare	IGC	COAD	1	1
+TCGA-A6-2680	COAD	FEMALE	Alive	72	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage II	151	52.6	False	True	Christiana Healthcare	IGC	COAD	1	1
+TCGA-A6-2681	COAD	FEMALE	Alive	73	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IIA	170.1	79.6	False	True	Christiana Healthcare	IGC	COAD	1	1
+TCGA-A6-2682	COAD	MALE	Dead	70	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IV	180	96.5	False	True	Christiana Healthcare	IGC	COAD	1	1
+TCGA-A6-2683	COAD	FEMALE	Dead	57	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IV	166.3	57.5	False	True	Christiana Healthcare	IGC	COAD	1	1
+TCGA-A6-2684	COAD	FEMALE	Alive	75	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage I	163	70.1	False	True	Christiana Healthcare	IGC	COAD	2	1
+TCGA-A6-2685	COAD	FEMALE	Alive	48	No	Colon	True	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIA	171	77.3	False	True	Christiana Healthcare	IGC	COAD	1	1
+TCGA-A6-2686	COAD	FEMALE	Dead	81	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	155	61.4	False	True	Christiana Healthcare	IGC	COAD	1	1
+TCGA-A6-3807	COAD	FEMALE	Alive	53	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIC	163	109.5	True	True	Christiana Healthcare	IGC	COAD	1	1
+TCGA-A6-3808	COAD	MALE	Alive	73	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	180.3	84.5	False	True	Christiana Healthcare	IGC	COAD	1	1
+TCGA-A6-3809	COAD	FEMALE	Alive	71	No	Colon	False	False	WHITE	Colon Mucinous Adenocarcinoma	Stage IIB	160	102.1	True	True	Christiana Healthcare	IGC	COAD	2	1
+TCGA-A6-3810	COAD	MALE	Alive	62	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	175	122.7	False	True	Christiana Healthcare	IGC	COAD	2	1
+TCGA-A6-4105	COAD	MALE	Dead	79	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IIA	180.3	83.3	True	True	Christiana Healthcare	IGC	COAD	1	0
+TCGA-A6-4107	COAD	FEMALE	Alive	57	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIB	154	91.8	False	True	Christiana Healthcare	IGC	COAD	1	1
+TCGA-A6-5656	COAD	MALE	Alive	74	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage I	179	76.6	False	True	Christiana Healthcare	IGC	COAD	2	0
+TCGA-A6-5657	COAD	MALE	Alive	65	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIIB	172	99.6	False	True	Christiana Healthcare	IGC	COAD	1	1
+TCGA-A6-5659	COAD	MALE	Alive	82	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage I	180	117.1	True	True	Christiana Healthcare	IGC	COAD	2	1
+TCGA-A6-5660	COAD	MALE	Alive	73	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIIC	170	94.4	True	True	Christiana Healthcare	IGC	COAD	1	1
+TCGA-A6-5661	COAD	FEMALE	Alive	80	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIA	170	69.1	True	True	Christiana Healthcare	IGC	COAD	2	1
+TCGA-A6-5662	COAD	MALE	Alive	46	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IVA	180	84.4	False	True	Christiana Healthcare	IGC	COAD	1	1
+TCGA-A6-5664	COAD	MALE	Alive	80	No	Colon	True	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIIC	180.3	70.3	True	True	Christiana Healthcare	IGC	COAD	1	0
+TCGA-A6-5665	COAD	FEMALE	Alive	84	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IIA	157	90.8	True	True	Christiana Healthcare	IGC	COAD	2	1
+TCGA-A6-5666	COAD	MALE	Alive	78	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IIC	193	95.4	False	True	Christiana Healthcare	IGC	COAD	1	1
+TCGA-A6-5667	COAD	FEMALE	Alive	40	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIB	175	76	False	True	Christiana Healthcare	IGC	COAD	1	1
+TCGA-A6-6137	COAD	MALE	Alive	55	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIB	180.3	93	False	True	Christiana Healthcare	IGC	COAD	1	0
+TCGA-A6-6138	COAD	MALE	Alive	61	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage I	185.4	90.7	True	True	Christiana Healthcare	IGC	COAD	1	0
+TCGA-A6-6140	COAD	MALE	Alive	62	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	177.8	78.9	False	True	Christiana Healthcare	IGC	COAD	1	0
+TCGA-A6-6141	COAD	MALE	Alive	31	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIA	177.8	96.8		True	Christiana Healthcare	IGC	COAD	1	0
+TCGA-A6-6142	COAD	FEMALE	Alive	56	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IVA	162.5	88	False	True	Christiana Healthcare	IGC	COAD	1	0
+TCGA-A6-6648	COAD	MALE	Alive	56	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IVA	182.8	87	False	True	Christiana Healthcare	IGC	COAD	1	0
+TCGA-A6-6649	COAD	MALE	Alive	66	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIB	190	106	True	True	Christiana Healthcare	IGC	COAD	1	0
+TCGA-A6-6650	COAD	FEMALE	Alive	69	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIA	162.6	94.7	False	True	Christiana Healthcare	IGC	COAD	2	0
+TCGA-A6-6651	COAD	FEMALE	Alive	55	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIB	162.6	88.5	True	True	Christiana Healthcare	IGC	COAD	1	0
+TCGA-A6-6652	COAD	MALE	Alive	59	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IVA	185	137.6	True	True	Christiana Healthcare	IGC	COAD	1	0
+TCGA-A6-6653	COAD	MALE	Alive	82	No	Colon		False	WHITE	Colon Adenocarcinoma	Stage I	182.8	98.3	False	True	Christiana Healthcare	IGC	COAD	1	0
+TCGA-A6-6654	COAD	FEMALE	Alive	65	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIB	173	97.4		True	Christiana Healthcare	IGC	COAD	1	0
+TCGA-A6-6780	COAD	MALE	Alive	74	No	Colon	False	False	WHITE	Colon Mucinous Adenocarcinoma	Stage IIA	168	64.1	False	True	Christiana Healthcare	IGC	COAD	2	0
+TCGA-A6-6781	COAD	MALE	Alive	43	No	Colon	False	False	WHITE	Colon Mucinous Adenocarcinoma	Stage IIIC	190.5	87.5	True	True	Christiana Healthcare	IGC	COAD	2	0
+TCGA-A6-6782	COAD	MALE	Alive	82	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIB	175	63.2	False	True	Christiana Healthcare	IGC	COAD	1	0
+TCGA-A6-A565	COAD	FEMALE	Dead	34	No	Colon	True	False	BLACK OR AFRICAN AMERICAN	Colon Mucinous Adenocarcinoma	Stage IIIC	150	66.7	True	True	Christiana Healthcare	IGC	COAD	1	0
+TCGA-A6-A566	COAD	FEMALE	Dead	55	No	Colon	True	False	BLACK OR AFRICAN AMERICAN	Colon Mucinous Adenocarcinoma	Stage IIIB	160	66.1	False	True	Christiana Healthcare	IGC	COAD	1	0
+TCGA-A6-A567	COAD	MALE	Dead	56	No	Colon	True	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IV	188	84	True	True	Christiana Healthcare	IGC	COAD	1	0
+TCGA-A6-A56B	COAD	MALE	Dead	57	No	Colon	True	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIIB	180	77.2	True	True	Christiana Healthcare	IGC	COAD	1	0
+TCGA-A6-A5ZU	COAD	MALE	Alive	59	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIIB	170	99.1	False	True	Christiana Healthcare	IGC	COAD	1	0
+TCGA-AA-3488	COAD	MALE	Dead	58	No	Colon				Colon Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3489	COAD	MALE	Dead	75	No	Colon		False		Colon Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3492	COAD	FEMALE	Dead	90	No	Colon	False	False		Colon Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3494	COAD	MALE	Alive	55	No	Colon				Colon Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3495	COAD	MALE	Alive	79	No	Colon	False	False		Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3496	COAD	FEMALE	Alive	83	No	Colon				Colon Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3502	COAD	MALE	Alive	73	No	Colon		False		Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3506	COAD	MALE	Alive	77	No	Colon		False		Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3509	COAD	FEMALE	Alive	54	No	Colon	False	False		Colon Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3510	COAD	MALE	Alive	70	No	Colon	False	False		Colon Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3511	COAD	MALE	Alive	64	No	Colon	True	False		Colon Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3514	COAD	FEMALE	Alive	81	No	Colon		False		Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3516	COAD	FEMALE	Dead	74	Yes	Colon		False		Colon Mucinous Adenocarcinoma	Stage III	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3517	COAD	MALE	Alive	60	No	Colon	True	False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3518	COAD	FEMALE	Alive	81	No	Colon				Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3519	COAD	MALE	Alive	63	No	Colon	False	False		Colon Adenocarcinoma	Stage III	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3520	COAD	FEMALE	Alive	86	No	Colon		False		Colon Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3521	COAD	MALE	Alive	87	No	Colon				Colon Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3522	COAD	MALE	Alive	67	No	Colon	False	False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3524	COAD	MALE	Alive	85	No	Colon	False	False		Colon Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3525	COAD	MALE	Alive	90	No	Colon	False	False		Colon Adenocarcinoma	Stage IIIB	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3526	COAD	MALE	Alive	57	No	Colon	False	False		Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3527	COAD	FEMALE	Alive	90	No	Colon				Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3529	COAD	FEMALE	Dead	78	No	Colon				Colon Adenocarcinoma	Stage IIIC	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3530	COAD	MALE	Alive	80	No	Colon	False	False		Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3531	COAD	FEMALE	Alive	75	No	Colon	False	False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3532	COAD	MALE	Alive	63	No	Colon		False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3534	COAD	FEMALE	Alive	78	No	Colon	False	False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3538	COAD	FEMALE	Alive	54	No	Colon	False	False		Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3542	COAD	MALE	Alive	69	No	Colon	False	False		Colon Adenocarcinoma	Stage IIIC	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3543	COAD	MALE	Alive	84	Yes	Colon		False		Colon Mucinous Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3544	COAD	MALE	Alive	68	No	Colon	False	False		Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3548	COAD	FEMALE	Alive	71	No	Colon	False	False		Colon Adenocarcinoma	Stage IIIC	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3549	COAD	MALE	Alive	69	No	Colon	False	True		Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3552	COAD	MALE	Dead	85	No	Colon	True	False		Colon Adenocarcinoma	Stage IIIC	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3553	COAD	FEMALE	Alive	61	No	Colon	False	False		Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3554	COAD	FEMALE	Alive	62	Yes	Colon	False	False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3555	COAD	FEMALE	Alive	81	No	Colon	True	False		Colon Mucinous Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3556	COAD	MALE	Alive	78	No	Colon		False			Stage I	NA	NA			Indivumed	IGC	COAD	1	0
+TCGA-AA-3558	COAD	MALE	Alive	70	No	Colon	True	False		Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3560	COAD	FEMALE	Alive	72	No	Colon	False	False		Colon Adenocarcinoma	Stage IIIC	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3561	COAD	MALE	Alive	72	No	Colon	False	False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3562	COAD	MALE	Alive	82	No	Colon		False		Colon Adenocarcinoma	Stage IIIC	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3655	COAD	MALE	Alive	68	No	Colon	False	False		Colon Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3660	COAD	FEMALE	Alive	51	No	Colon	False	False		Colon Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3662	COAD	FEMALE	Alive	80	No	Colon	False	False		Colon Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3663	COAD	MALE	Alive	42	No	Colon	False	False		Colon Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3664	COAD	FEMALE	Alive	74	No	Colon		False		Colon Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3666	COAD	MALE	Dead	68	No	Colon				Colon Adenocarcinoma	Stage III	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3667	COAD	FEMALE	Alive	36	No	Colon	False	False		Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3672	COAD	FEMALE	Alive	90	No	Colon		False		Colon Adenocarcinoma	Stage III	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3673	COAD	FEMALE	Alive	53	No	Colon	False	False		Colon Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3675	COAD	MALE	Alive	84	No	Colon	False	False		Colon Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3678	COAD	FEMALE	Alive	60	No	Colon	False	False		Colon Adenocarcinoma	Stage III	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3679	COAD	MALE	Alive	59	No	Colon	False	False		Colon Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3680	COAD	FEMALE	Dead	67	No	Colon	False	False		Colon Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3681	COAD	FEMALE	Alive	77	No	Colon	False	False		Colon Adenocarcinoma	Stage III	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3684	COAD	FEMALE	Alive	65	No	Colon				Colon Mucinous Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3685	COAD	MALE	Alive	69	No	Colon	False	False		Colon Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3688	COAD	MALE	Alive	80	No	Colon	False	False		Colon Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3692	COAD	FEMALE	Dead	47	No	Colon	True	True		Colon Mucinous Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3693	COAD	FEMALE	Alive	77	No	Colon				Colon Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3695	COAD	FEMALE	Alive	63	No	Colon				Colon Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3696	COAD	FEMALE	Dead	75	No	Colon		False		Colon Adenocarcinoma	Stage IV	NA	NA	True	True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3697	COAD	MALE	Alive	77	No	Colon		False		Colon Adenocarcinoma	Stage III	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3710	COAD	FEMALE	Alive	80	No	Colon	False	False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3712	COAD	MALE	Alive	65	No	Colon				Colon Adenocarcinoma	Stage III	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3713	COAD	MALE	Alive	68	No	Colon	False	True		Colon Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-3715	COAD	MALE	Dead	77	No	Colon	True	False		Colon Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3811	COAD	FEMALE	Dead	84	No	Colon		False		Colon Adenocarcinoma	Stage III	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3812	COAD	FEMALE	Alive	82	No	Colon	True	False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3814	COAD	FEMALE	Alive	85	No	Colon				Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3815	COAD	FEMALE	Alive	65	No	Colon	False	False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3818	COAD	FEMALE	Dead	78	No	Colon				Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3819	COAD	FEMALE	Alive	41	No	Colon	False	False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3821	COAD	FEMALE	Alive	81	No	Colon		False		Colon Mucinous Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3831	COAD	MALE	Alive	66	No	Colon	False	False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3833	COAD	FEMALE	Alive	63	No	Colon	False	False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3837	COAD	MALE	Alive	67	No	Colon	False	False		Colon Mucinous Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3841	COAD	MALE	Alive	66	No	Colon	False	False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3842	COAD	MALE	Alive	51	No	Colon	True	False		Colon Adenocarcinoma	Stage IIIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3844	COAD	FEMALE	Alive	78	No	Colon	True	True		Colon Adenocarcinoma	Stage IIIC	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3845	COAD	FEMALE	Dead	86	No	Colon				Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3846	COAD	FEMALE	Alive	74	No	Colon		False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3848	COAD	FEMALE	Dead	82	No	Colon		False		Colon Adenocarcinoma	Stage IIIC	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3850	COAD	MALE	Dead	74	No	Colon				Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3851	COAD	MALE	Alive	74	No	Colon		False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3852	COAD	MALE	Dead	88	No	Colon				Colon Mucinous Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3854	COAD	FEMALE	Alive	71	No	Colon	False	False		Colon Mucinous Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3855	COAD	MALE	Alive	72	No	Colon		False		Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3856	COAD	MALE	Alive	59	No	Colon				Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3858	COAD	MALE	Alive	67	No	Colon	False	False		Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3860	COAD	FEMALE	Alive	53	No	Colon	False	False		Colon Adenocarcinoma	Stage IIIB	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3861	COAD	MALE	Alive	72	No	Colon	False	False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3862	COAD	MALE	Alive	82	No	Colon	False	False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3864	COAD	MALE	Alive	71	No	Colon	False	False		Colon Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3866	COAD	FEMALE	Alive	78	No	Colon	False	False		Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3867	COAD	MALE	Alive	74	No	Colon	True	False		Colon Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3869	COAD	MALE	Dead	76	No	Colon	False	False		Colon Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3870	COAD	FEMALE	Alive	71	No	Colon	False			Colon Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3872	COAD	MALE	Alive	45	No	Colon				Colon Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3875	COAD	FEMALE	Alive	78	No	Colon		False		Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3877	COAD	FEMALE	Alive	83	No	Colon	False	False		Colon Mucinous Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3930	COAD	MALE	Dead	66	No	Colon	False	False		Colon Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3939	COAD	MALE	Alive	83	No	Colon		False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3941	COAD	FEMALE	Alive	84	No	Colon		False		Colon Adenocarcinoma	Stage IVA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3947	COAD	FEMALE	Alive	60	No	Colon	False	False		Colon Mucinous Adenocarcinoma	Stage IIB	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3949	COAD	FEMALE	Alive	87	No	Colon	False	False		Colon Mucinous Adenocarcinoma	Stage IIIB	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3950	COAD	FEMALE	Alive	79	No	Colon	False	False		Colon Mucinous Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3952	COAD	MALE	Dead	68	No	Colon				Colon Adenocarcinoma	Stage IIIC	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3955	COAD	MALE	Alive	38	No	Colon	False	False		Colon Adenocarcinoma	Stage IIIB	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3956	COAD	MALE	Alive	65	No	Colon		False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3966	COAD	FEMALE	Alive	89	No	Colon				Colon Mucinous Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3967	COAD	MALE	Alive	77	No	Colon	False	False		Colon Adenocarcinoma	Stage IIIB	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3968	COAD	FEMALE	Alive	55	No	Colon	False	False		Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3970	COAD	MALE	Alive	65	No	Colon	False	False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3971	COAD	MALE	Alive	58	No	Colon	False	False		Colon Adenocarcinoma	Stage III	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3972	COAD	MALE	Alive	72	No	Colon	True	False		Colon Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3973	COAD	MALE	Alive	69	No	Colon	False	False		Colon Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3975	COAD	MALE	Alive	80	No	Colon	False	False		Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3976	COAD	MALE	Alive	70	No	Colon	False	False		Colon Adenocarcinoma	Stage IIIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3977	COAD	MALE	Alive	65	No	Colon	False	False		Colon Adenocarcinoma		NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3979	COAD	MALE	Alive	84	No	Colon	False	False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3980	COAD	FEMALE	Alive	89	No	Colon	False	False		Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3982	COAD	MALE	Alive	75	No	Colon		False		Colon Adenocarcinoma	Stage IIIB	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3984	COAD	FEMALE	Alive	61	No	Colon				Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3986	COAD	MALE	Alive	73	No	Colon	False	False		Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3989	COAD	MALE	Dead	84	No	Colon		False		Colon Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-3994	COAD	MALE	Alive	69	No	Colon	False	False		Colon Mucinous Adenocarcinoma	Stage IIIB	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A004	COAD	MALE	Alive	76	No	Colon	False	False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A00A	COAD	MALE	Alive	80	No	Colon		False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A00D	COAD	MALE	Alive	70	No	Colon	False	False		Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A00E	COAD	MALE	Alive	65	No	Colon	False	False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A00F	COAD	MALE	Alive	66	No	Colon	False	False		Colon Adenocarcinoma	Stage IIIC	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A00J	COAD	MALE	Alive	80	No	Colon	False	False		Colon Mucinous Adenocarcinoma	Stage IIIB	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A00K	COAD	MALE	Alive	79	No	Colon				Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A00L	COAD	MALE	Alive	66	No	Colon	False	False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A00N	COAD	MALE	Dead	75	No	Colon				Colon Mucinous Adenocarcinoma	Stage IIB	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A00O	COAD	FEMALE	Alive	83	No	Colon	False	False		Colon Adenocarcinoma	Stage IIIC	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A00Q	COAD	FEMALE	Alive	66	No	Colon	False	False		Colon Adenocarcinoma	Stage IIIB	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A00R	COAD	FEMALE	Alive	64	No	Colon				Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A00U	COAD	MALE	Alive	50	No	Colon	False	False		Colon Adenocarcinoma	Stage IIIB	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A00W	COAD	MALE	Alive	80	No	Colon	False	False		Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A00Z	COAD	MALE	Alive	70	No	Colon	False	False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A010	COAD	FEMALE	Alive	46	No	Colon	False	False		Colon Adenocarcinoma	Stage IIB	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A017	COAD	FEMALE	Alive	57	No	Colon	False	False		Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A01C	COAD	MALE	Alive	75	No	Colon	False	False		Colon Adenocarcinoma	Stage IIIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A01D	COAD	FEMALE	Dead	47	No	Colon		False		Colon Mucinous Adenocarcinoma	Stage IIIC	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A01F	COAD	MALE	Alive	72	No	Colon		False		Colon Adenocarcinoma	Stage IIIB	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A01G	COAD	MALE	Alive	63	No	Colon	False	False		Colon Mucinous Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A01I	COAD	MALE	Alive	76	No	Colon	False	False		Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A01K	COAD	FEMALE	Alive	74	No	Colon	False	False		Colon Adenocarcinoma	Stage IIIC	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A01P	COAD	FEMALE	Dead	80	No	Colon	True	False		Colon Adenocarcinoma	Stage III	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-A01Q	COAD	FEMALE	Alive	48	No	Colon				Colon Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A01R	COAD	MALE	Alive	47	No	Colon	True	True		Colon Mucinous Adenocarcinoma	Stage III	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-A01S	COAD	FEMALE	Alive	47	No	Colon				Colon Adenocarcinoma	Stage III	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-A01T	COAD	FEMALE	Alive	63	No	Colon	False	False		Colon Adenocarcinoma	Stage III	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-A01V	COAD	MALE	Alive	59	No	Colon				Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-A01X	COAD	FEMALE	Alive	80	No	Colon	True	False		Colon Adenocarcinoma	Stage III	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-A01Z	COAD	MALE	Alive	68	No	Colon	True	False		Colon Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-A022	COAD	FEMALE	Alive	88	No	Colon				Colon Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-A024	COAD	MALE	Dead	81	No	Colon	False	False		Colon Mucinous Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A029	COAD	MALE	Alive	67	No	Colon	False	False		Colon Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A02E	COAD	FEMALE	Dead	82	No	Colon				Colon Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A02F	COAD	FEMALE	Alive	68	No	Colon	False	False		Colon Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A02H	COAD	FEMALE	Dead	74	No	Colon				Colon Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A02J	COAD	FEMALE	Dead	70	No	Colon				Colon Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A02K	COAD	MALE	Dead	50	No	Colon	True	False		Colon Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A02O	COAD	MALE	Alive	82	No	Colon				Colon Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-A02R	COAD	FEMALE	Dead	84	No	Colon				Colon Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A02W	COAD	FEMALE	Alive	73	No	Colon	True	False		Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A02Y	COAD	MALE	Alive	73	No	Colon	False	False		Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	0
+TCGA-AA-A03F	COAD	FEMALE	Dead	90	No	Colon		False		Colon Mucinous Adenocarcinoma	Stage III	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AA-A03J	COAD	FEMALE	Alive	65	No	Colon	False	False		Colon Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	COAD	1	1
+TCGA-AD-5900	COAD	MALE	Alive	67	No	Colon	False	False	WHITE	Colon Mucinous Adenocarcinoma	Stage I	NA	NA	False	True	International Genomics Consortium	IGC	COAD	1	0
+TCGA-AD-6548	COAD	FEMALE	Alive	81	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage I	157.5	78.6	True	True	International Genomics Consortium	IGC	COAD	1	0
+TCGA-AD-6888	COAD	MALE	Dead	73	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IIIB	183	96	True	True	International Genomics Consortium	IGC	COAD	1	0
+TCGA-AD-6889	COAD	MALE	Dead	76	No	Colon	False	False	ASIAN	Colon Adenocarcinoma	Stage IIA	NA	NA		True	International Genomics Consortium	IGC	COAD	1	0
+TCGA-AD-6890	COAD	MALE	Alive	65	No	Colon	False	False	WHITE	Colon Adenocarcinoma		NA	NA	True	True	International Genomics Consortium	IGC	COAD	1	0
+TCGA-AD-6895	COAD	MALE	Alive	84	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIB	170	68	False	True	International Genomics Consortium	IGC	COAD	1	0
+TCGA-AD-6899	COAD	MALE	Dead	84	No	Colon	False	False	WHITE	Colon Mucinous Adenocarcinoma	Stage IIIC	175	62	False	True	International Genomics Consortium	IGC	COAD	1	0
+TCGA-AD-6901	COAD	MALE	Dead	78	No	Colon	True	False	WHITE	Colon Adenocarcinoma		170	69	False	True	International Genomics Consortium	IGC	COAD	1	0
+TCGA-AD-6963	COAD	MALE	Alive	58	No	Colon	False	False	WHITE	Colon Adenocarcinoma		193	107		True	International Genomics Consortium	IGC	COAD	1	0
+TCGA-AD-6964	COAD	MALE	Dead	58	No	Colon	True	False	WHITE	Colon Adenocarcinoma		183	91	False	True	International Genomics Consortium	IGC	COAD	1	0
+TCGA-AD-6965	COAD	MALE	Alive	62	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IIIC	183	95		True	International Genomics Consortium	IGC	COAD	1	0
+TCGA-AD-A5EJ	COAD	FEMALE	Alive	74	No	Colon	False		BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIA	163	71	True	True	International Genomics Consortium	IGC	COAD	1	0
+TCGA-AD-A5EK	COAD	MALE	Alive	51	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage I	190	100	True	True	International Genomics Consortium	IGC	COAD	1	0
+TCGA-AM-5820	COAD	FEMALE	Alive	59	No	Colon			WHITE	Colon Adenocarcinoma	Stage IVA	164	98	False	True	Cureline	IGC	COAD	1	0
+TCGA-AM-5821	COAD	FEMALE	Alive	68	No	Colon			WHITE	Colon Adenocarcinoma	Stage IIA	148	68		True	Cureline	IGC	COAD	1	0
+TCGA-AU-3779	COAD	FEMALE	Alive	80	No	Colon		False	WHITE	Colon Adenocarcinoma	Stage IIA	157	83	False	True	St. Joseph's Medical Center-(MD)	IGC	COAD	1	0
+TCGA-AU-6004	COAD	FEMALE	Alive	69	No	Colon			WHITE	Colon Adenocarcinoma	Stage I	160	55	False	True	St. Joseph's Medical Center-(MD)	IGC	COAD	1	0
+TCGA-AY-4070	COAD	FEMALE	Dead	50	No	Colon	True	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIIC	160	100.8	False	True	UNC	IGC	COAD	1	0
+TCGA-AY-4071	COAD	FEMALE	Dead	63	No		False	False	WHITE		Stage I	NA	113.7	True		UNC	IGC	COAD	1	0
+TCGA-AY-5543	COAD	FEMALE	Alive	65	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IVA	NA	61.3	False	True	UNC	IGC	COAD	1	0
+TCGA-AY-6196	COAD	MALE	Alive	47	No	Colon			WHITE	Colon Mucinous Adenocarcinoma	Stage IIIC	NA	NA	False	True	UNC	IGC	COAD	1	0
+TCGA-AY-6197	COAD	MALE	Alive	60	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	NA	158	False	True	UNC	IGC	COAD	1	0
+TCGA-AY-6386	COAD	FEMALE	Alive	66	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIIB	153	86	True	True	UNC	IGC	COAD	1	0
+TCGA-AY-A54L	COAD	FEMALE	Alive	74	No	Colon	True	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage I	172	68	False	True	UNC	IGC	COAD	1	0
+TCGA-AY-A69D	COAD	FEMALE	Alive	55	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIA	165	103	False	True	UNC	IGC	COAD	1	0
+TCGA-AY-A71X	COAD	FEMALE	Alive	54	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage I	164	130	True	True	UNC	IGC	COAD	1	0
+TCGA-AY-A8YK	COAD	MALE	Alive	44	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IVA	185	86.1	False	True	UNC	IGC	COAD	1	0
+TCGA-AZ-4308	COAD	FEMALE	Alive	47	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIB	NA	73		True	University of Pittsburgh	IGC	COAD	1	0
+TCGA-AZ-4313	COAD	FEMALE	Alive	51	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage I	NA	57		True	University of Pittsburgh	IGC	COAD	1	0
+TCGA-AZ-4315	COAD	MALE	Alive	61	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	NA	84		True	University of Pittsburgh	IGC	COAD	1	0
+TCGA-AZ-4323	COAD	MALE	Dead	37	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IV	NA	NA		True	University of Pittsburgh	IGC	COAD	1	0
+TCGA-AZ-4614	COAD	FEMALE	Dead	71	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IVA	NA	70		True	University of Pittsburgh	IGC	COAD	1	0
+TCGA-AZ-4615	COAD	MALE	Alive	84	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIB	170	84		True	University of Pittsburgh	IGC	COAD	1	0
+TCGA-AZ-4616	COAD	FEMALE	Dead	82	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IV	NA	NA		True	University of Pittsburgh	IGC	COAD	1	0
+TCGA-AZ-4681	COAD	FEMALE	Alive	79	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	NA	68	True	True	University of Pittsburgh	IGC	COAD	1	0
+TCGA-AZ-4682	COAD	MALE	Dead	61	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IVA	NA	98		True	University of Pittsburgh	IGC	COAD	1	0
+TCGA-AZ-4684	COAD	MALE	Alive	49	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IVA	NA	94		True	University of Pittsburgh	IGC	COAD	1	0
+TCGA-AZ-5403	COAD	MALE	Dead	43	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage II	NA	NA		True	University of Pittsburgh	IGC	COAD	1	0
+TCGA-AZ-5407	COAD	FEMALE	Alive	51	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage I	NA	NA		True	University of Pittsburgh	IGC	COAD	1	0
+TCGA-AZ-6598	COAD	FEMALE	Dead	77	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage II	NA	NA		True	University of Pittsburgh	IGC	COAD	1	1
+TCGA-AZ-6599	COAD	MALE	Dead	72	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage I	NA	NA		True	University of Pittsburgh	IGC	COAD	1	1
+TCGA-AZ-6600	COAD	MALE	Dead	64	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IV	NA	NA		True	University of Pittsburgh	IGC	COAD	1	1
+TCGA-AZ-6601	COAD	MALE	Dead	68	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage II	162	59		True	University of Pittsburgh	IGC	COAD	1	1
+TCGA-AZ-6603	COAD	FEMALE	Dead	77	No	Colon	False	False	WHITE	Colon Adenocarcinoma		NA	NA		True	University of Pittsburgh	IGC	COAD	1	1
+TCGA-AZ-6605	COAD	MALE	Dead	77	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIB	NA	NA		True	University of Pittsburgh	IGC	COAD	1	1
+TCGA-AZ-6606	COAD	MALE	Dead	81	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IV	NA	NA		True	University of Pittsburgh	IGC	COAD	1	1
+TCGA-AZ-6607	COAD	MALE	Dead	69	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IV	NA	NA		True	University of Pittsburgh	IGC	COAD	1	1
+TCGA-AZ-6608	COAD	FEMALE	Dead	55	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIA	NA	NA		True	University of Pittsburgh	IGC	COAD	1	1
+TCGA-CA-5254	COAD	FEMALE	Alive	42	No	Colon	False	False	ASIAN	Colon Adenocarcinoma	Stage IIA	154	55		True	ILSBio	IGC	COAD	1	0
+TCGA-CA-5255	COAD	MALE	Alive	45	No	Colon	False	True	ASIAN	Colon Adenocarcinoma	Stage IIA	172	56		True	ILSBio	IGC	COAD	1	0
+TCGA-CA-5256	COAD	FEMALE	Alive	54	No	Colon	False	False	ASIAN	Colon Adenocarcinoma	Stage IIA	160	52		True	ILSBio	IGC	COAD	1	0
+TCGA-CA-5796	COAD	FEMALE	Alive	52	No	Colon	False	False	ASIAN	Colon Mucinous Adenocarcinoma	Stage IIA	NA	NA		True	ILSBio	IGC	COAD	1	0
+TCGA-CA-5797	COAD	MALE	Alive	56	No	Colon	False	False	ASIAN	Colon Adenocarcinoma	Stage IIA	NA	NA		True	ILSBio	IGC	COAD	1	0
+TCGA-CA-6715	COAD	MALE	Alive	63	No	Colon	False	False	ASIAN	Colon Adenocarcinoma	Stage IIIB	158	57		True	ILSBio	IGC	COAD	1	0
+TCGA-CA-6716	COAD	MALE	Alive	65	No	Colon	False	False	ASIAN	Colon Adenocarcinoma	Stage IIA	167	58		True	ILSBio	IGC	COAD	1	0
+TCGA-CA-6717	COAD	MALE	Alive	57	No	Colon	False	False	ASIAN	Colon Mucinous Adenocarcinoma	Stage IIA	168	58		True	ILSBio	IGC	COAD	1	0
+TCGA-CA-6718	COAD	MALE	Dead	46	No	Colon	True	False	ASIAN	Colon Adenocarcinoma	Stage IIA	168	63		True	ILSBio	IGC	COAD	1	0
+TCGA-CA-6719	COAD	MALE	Alive	77	No	Colon	True	False	ASIAN	Colon Adenocarcinoma	Stage IIA	172	61		True	ILSBio	IGC	COAD	1	0
+TCGA-CK-4947	COAD	FEMALE	Alive	46	No	Colon		False	WHITE	Colon Adenocarcinoma	Stage IIIB	NA	NA	False	True	Harvard	IGC	COAD	1	0
+TCGA-CK-4948	COAD	FEMALE	Alive	45	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage III	NA	NA	False	True	Harvard	IGC	COAD	1	0
+TCGA-CK-4950	COAD	FEMALE	Alive	68	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Mucinous Adenocarcinoma	Stage IIIB	NA	NA	False	True	Harvard	IGC	COAD	1	0
+TCGA-CK-4951	COAD	FEMALE	Dead	79	No	Colon	True	False	WHITE	Colon Mucinous Adenocarcinoma	Stage IIA	NA	NA	False	True	Harvard	IGC	COAD	1	0
+TCGA-CK-4952	COAD	FEMALE	Alive	48	No	Colon			WHITE	Colon Mucinous Adenocarcinoma	Stage IIIC	NA	NA	False	True	Harvard	IGC	COAD	1	0
+TCGA-CK-5912	COAD	MALE	Dead	81	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage I	NA	NA	True	True	Harvard	IGC	COAD	1	0
+TCGA-CK-5913	COAD	FEMALE	Alive	58	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	NA	NA	False	True	Harvard	IGC	COAD	1	0
+TCGA-CK-5914	COAD	MALE	Alive	81	No	Colon			WHITE	Colon Adenocarcinoma	Stage IIIB	NA	NA	False	True	Harvard	IGC	COAD	1	0
+TCGA-CK-5915	COAD	MALE	Alive	63	No	Colon			WHITE	Colon Adenocarcinoma	Stage I	NA	NA	True	True	Harvard	IGC	COAD	1	0
+TCGA-CK-5916	COAD	FEMALE	Dead	71	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage I	NA	NA	False	True	Harvard	IGC	COAD	1	0
+TCGA-CK-6746	COAD	FEMALE	Alive	84	No	Colon			WHITE	Colon Adenocarcinoma	Stage IIB	NA	NA	False	True	Harvard	IGC	COAD	1	0
+TCGA-CK-6747	COAD	FEMALE	Alive	87	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	NA	NA	False	True	Harvard	IGC	COAD	1	0
+TCGA-CK-6748	COAD	FEMALE	Alive	45	No	Colon		False	WHITE	Colon Mucinous Adenocarcinoma	Stage IV	NA	NA	False	True	Harvard	IGC	COAD	1	0
+TCGA-CK-6751	COAD	FEMALE	Alive	88	No	Colon	False	False	WHITE	Colon Mucinous Adenocarcinoma	Stage I	NA	NA	False	True	Harvard	IGC	COAD	1	0
+TCGA-CM-4743	COAD	MALE	Alive	69	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	167	84.4	False	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-4744	COAD	MALE	Alive	69	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage I	183	89.7	True	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-4746	COAD	MALE	Alive	61	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage I	175	98	True	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-4747	COAD	MALE	Alive	47	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IVA	188	76.7	True	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-4748	COAD	MALE	Alive	53	No	Colon	False	False	WHITE	Colon Mucinous Adenocarcinoma	Stage IIIB	176	89.8	False	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-4750	COAD	FEMALE	Alive	34	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIA	173	84.5	True	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-4751	COAD	MALE	Alive	62	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIB	183	115	False	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-4752	COAD	MALE	Alive	58	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIA	163	71.2	False	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-5341	COAD	FEMALE	Alive	82	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIA	145	80.2	False	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-5344	COAD	FEMALE	Alive	39	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIB	156	64.9	True	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-5348	COAD	MALE	Alive	72	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIB	163	85.5	True	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-5349	COAD	FEMALE	Alive	68	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	156	54.4	False	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-5860	COAD	MALE	Alive	44	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	182	100.7	False	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-5861	COAD	FEMALE	Alive	63	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	164	122	False	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-5862	COAD	MALE	Dead	80	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IVA	162.5	77.6	True	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-5863	COAD	FEMALE	Alive	60	No	Colon	False	False	WHITE	Colon Mucinous Adenocarcinoma	Stage IIIB	150	103.4	False	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-5864	COAD	MALE	Alive	60	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage I	180	103	False	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-5868	COAD	FEMALE	Alive	59	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IVA	171	99.8	False	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-6161	COAD	FEMALE	Alive	36	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage I	174	65.6	True	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-6162	COAD	FEMALE	Alive	48	No	Colon	False	False	WHITE	Colon Mucinous Adenocarcinoma	Stage IIIB	171	109	True	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-6163	COAD	MALE	Alive	74	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage I	179	75.8	True	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-6164	COAD	FEMALE	Alive	46	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	150	59	False	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-6165	COAD	MALE	Alive	74	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	189	100.7	False	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-6166	COAD	FEMALE	Alive	48	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage I	153	45	False	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-6167	COAD	FEMALE	Alive	57	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIIC	174	89	True	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-6168	COAD	FEMALE	Alive	84	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIA	149	52.5	False	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-6169	COAD	MALE	Alive	67	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIA	176	109.3	False	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-6170	COAD	FEMALE	Alive	73	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage I	145	85.8	True	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-6171	COAD	FEMALE	Alive	77	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage I	162	71.2	False	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-6172	COAD	FEMALE	Alive	70	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIB	151	77.6	False	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-6674	COAD	MALE	Alive	39	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	167	80.7	False	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-6675	COAD	MALE	Alive	35	No	Colon	True	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IVB	187	93.9	False	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-6676	COAD	MALE	Alive	82	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage I	165	100	False	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-6677	COAD	FEMALE	Alive	75	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	167	99.5	True	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-6678	COAD	FEMALE	Alive	63	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IVA	157	59	False	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-6679	COAD	MALE	Alive	58	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	178	106.5	False	True	MSKCC	IGC	COAD	1	0
+TCGA-CM-6680	COAD	FEMALE	Alive	78	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIB	150	72.4	False	True	MSKCC	IGC	COAD	1	0
+TCGA-D5-5537	COAD	MALE	Dead	83	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IIA	168	75	True	True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-5538	COAD	FEMALE	Dead	60	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IIIB	165	70	False	True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-5539	COAD	MALE	Alive	60	No	Colon	True	False	WHITE	Colon Mucinous Adenocarcinoma	Stage IIIA	168	83		True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-5540	COAD	MALE	Alive	73	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	175	83	False	True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-5541	COAD	MALE	Alive	63	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIB	170	81	False	True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-6529	COAD	MALE	Alive	69	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IIA	176	106	False	True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-6530	COAD	MALE	Alive	53	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage I	182	89	False	True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-6531	COAD	MALE	Alive	75	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	167	60		True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-6532	COAD	MALE	Alive	61	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	174	92		True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-6533	COAD	FEMALE	Alive	68	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIB	156	51	False	True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-6534	COAD	FEMALE	Alive	62	No	Colon	False	False	WHITE	Colon Mucinous Adenocarcinoma	Stage IIA	170	94	True	True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-6535	COAD	FEMALE	Alive	80	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIB	157	65	True	True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-6536	COAD	MALE	Alive	73	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IIA	165	83	False	True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-6537	COAD	MALE	Dead	64	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IIIB	176	80	True	True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-6538	COAD	FEMALE	Alive	79	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIB	152	57	False	True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-6539	COAD	FEMALE	Alive	45	No	Colon	False	False	WHITE	Colon Adenocarcinoma		165	63		True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-6540	COAD	MALE	Alive	66	No	Colon	False	False	WHITE	Colon Mucinous Adenocarcinoma	Stage I	186	86	True	True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-6541	COAD	MALE	Alive	49	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	174	85		True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-6898	COAD	FEMALE	Alive	51	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage I	164	100	False	True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-6920	COAD	FEMALE	Alive	77	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	160	73	False	True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-6922	COAD	MALE	Alive	76	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIA	175	83	False	True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-6923	COAD	MALE	Alive	57	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage I	187	109	False	True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-6924	COAD	MALE	Alive	68	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	165	85	False	True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-6926	COAD	MALE	Alive	65	No	Colon	False	True	WHITE	Colon Adenocarcinoma	Stage IIIB	175	82	False	True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-6927	COAD	MALE	Alive	34	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	177	76	False	True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-6928	COAD	MALE	Alive	80	No	Colon	False	False	WHITE	Colon Mucinous Adenocarcinoma	Stage IIA	174	93	False	True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-6929	COAD	FEMALE	Alive	49	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IV	167	80	False	True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-6930	COAD	MALE	Alive	67	No	Colon	False	False	WHITE	Colon Mucinous Adenocarcinoma	Stage IIA	184	90	True	True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-6931	COAD	MALE	Alive	77	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIC	178	70	False	True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-6932	COAD	MALE	Alive	69	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	168	75	True	True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-D5-7000	COAD	FEMALE	Alive	79	No	Colon	False	False	WHITE	Colon Mucinous Adenocarcinoma	Stage I	154	60	False	True	Greater Poland Cancer Center	IGC	COAD	1	0
+TCGA-DM-A0X9	COAD	FEMALE	Alive	71	No	Colon	False		WHITE	Colon Adenocarcinoma	Stage IIA	170	86	True	True	University Of Michigan	NCH	COAD	1	0
+TCGA-DM-A0XD	COAD	MALE	Dead	65	No	Colon	True		WHITE	Colon Adenocarcinoma	Stage IIA	160	62	True	True	University Of Michigan	NCH	COAD	1	0
+TCGA-DM-A0XF	COAD	FEMALE	Dead	68	No	Colon	False		WHITE		Stage IIIC	170	85			University Of Michigan	NCH	COAD	1	0
+TCGA-DM-A1D0	COAD	FEMALE	Alive	79	No	Colon	False		WHITE	Colon Adenocarcinoma	Stage IIA	170	65		True	University Of Michigan	NCH	COAD	1	0
+TCGA-DM-A1D4	COAD	MALE	Dead	80	No	Colon	True		WHITE	Colon Adenocarcinoma	Stage IIA	171	59		True	University Of Michigan	NCH	COAD	1	0
+TCGA-DM-A1D6	COAD	MALE	Dead	88	No	Colon	False		WHITE	Colon Mucinous Adenocarcinoma	Stage IIA	173	80		True	University Of Michigan	NCH	COAD	1	0
+TCGA-DM-A1D7	COAD	MALE	Dead	82	No	Colon	True		WHITE		Stage IIA	175	75			University Of Michigan	NCH	COAD	1	0
+TCGA-DM-A1D8	COAD	FEMALE	Dead	50	No	Colon	False		WHITE	Colon Adenocarcinoma		158	65		True	University Of Michigan	NCH	COAD	1	0
+TCGA-DM-A1D9	COAD	FEMALE	Alive	67	No	Colon	False		WHITE	Colon Adenocarcinoma	Stage IIA	153	98	True	True	University Of Michigan	NCH	COAD	1	0
+TCGA-DM-A1DA	COAD	FEMALE	Dead	71	No	Colon	False		WHITE	Colon Adenocarcinoma	Stage IIIC	163	62		True	University Of Michigan	NCH	COAD	1	0
+TCGA-DM-A1DB	COAD	MALE	Dead	68	No	Colon	False		WHITE	Colon Adenocarcinoma	Stage IIA	167	75		True	University Of Michigan	NCH	COAD	1	0
+TCGA-DM-A1HA	COAD	MALE	Alive	82	No	Colon	False		WHITE	Colon Adenocarcinoma	Stage IIIC	163	67	True	True	University Of Michigan	NCH	COAD	1	0
+TCGA-DM-A1HB	COAD	MALE	Alive	75	No	Colon	False		WHITE		Stage IIIB	168	70	False		University Of Michigan	NCH	COAD	1	0
+TCGA-DM-A280	COAD	FEMALE	Dead	70	No	Colon	False		WHITE	Colon Mucinous Adenocarcinoma	Stage IIA	159	63	False	True	University Of Michigan	NCH	COAD	1	0
+TCGA-DM-A282	COAD	FEMALE	Alive	60	No	Colon	False		WHITE	Colon Adenocarcinoma	Stage IIA	153	44	False	True	University Of Michigan	NCH	COAD	1	0
+TCGA-DM-A285	COAD	FEMALE	Dead	71	No	Colon	False		WHITE	Colon Mucinous Adenocarcinoma	Stage IV	175	72	True	True	University Of Michigan	NCH	COAD	1	0
+TCGA-DM-A288	COAD	MALE	Dead	68	No	Colon	True		WHITE	Colon Mucinous Adenocarcinoma	Stage IIIC	170	85		True	University Of Michigan	NCH	COAD	1	0
+TCGA-DM-A28A	COAD	MALE	Dead	78	No	Colon	False		WHITE	Colon Adenocarcinoma	Stage IIIC	172	72		True	University Of Michigan	NCH	COAD	1	0
+TCGA-DM-A28C	COAD	MALE	Dead	74	No	Colon	True		WHITE	Colon Adenocarcinoma	Stage IIA	180	70	True	True	University Of Michigan	NCH	COAD	1	0
+TCGA-DM-A28E	COAD	FEMALE	Alive	72	No	Colon	False		WHITE	Colon Adenocarcinoma	Stage IIA	150	75	True	True	University Of Michigan	NCH	COAD	1	0
+TCGA-DM-A28F	COAD	MALE	Dead	73	No	Colon	False		WHITE	Colon Adenocarcinoma	Stage IIIB	182	83	True	True	University Of Michigan	NCH	COAD	1	0
+TCGA-DM-A28G	COAD	MALE	Dead	75	No	Colon	False		WHITE	Colon Adenocarcinoma	Stage IIA	170	90	True	True	University Of Michigan	NCH	COAD	1	0
+TCGA-DM-A28H	COAD	MALE	Alive	50	No	Colon	True		WHITE	Colon Adenocarcinoma	Stage IIIC	178	87		True	University Of Michigan	NCH	COAD	1	0
+TCGA-DM-A28K	COAD	MALE	Alive	75	No	Colon	False		WHITE	Colon Mucinous Adenocarcinoma	Stage IIA	174	78		True	University Of Michigan	NCH	COAD	1	0
+TCGA-DM-A28M	COAD	MALE	Alive	63	No	Colon	False		WHITE	Colon Adenocarcinoma	Stage IIA	172	90		True	University Of Michigan	NCH	COAD	1	0
+TCGA-F4-6459	COAD	FEMALE	Dead	61	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIB	162	55	False	True	Asterand	IGC	COAD	1	0
+TCGA-F4-6460	COAD	FEMALE	Dead	51	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIB	168	73	False	True	Asterand	IGC	COAD	1	0
+TCGA-F4-6461	COAD	FEMALE	Dead	41	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IIIC	151	57	False	True	Asterand	IGC	COAD	1	0
+TCGA-F4-6463	COAD	MALE	Alive	51	No	Colon	False	False	WHITE	Colon Mucinous Adenocarcinoma	Stage IIA	174	62		True	Asterand	IGC	COAD	1	0
+TCGA-F4-6569	COAD	MALE	Alive	60	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage I	180	60		True	Asterand	IGC	COAD	1	0
+TCGA-F4-6570	COAD	FEMALE	Dead	78	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	159	59		True	Asterand	IGC	COAD	1	0
+TCGA-F4-6703	COAD	MALE	Alive	64	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	172	84	False	True	Asterand	IGC	COAD	1	0
+TCGA-F4-6704	COAD	MALE	Alive	60	No	Colon			AMERICAN INDIAN OR ALASKA NATIVE	Colon Mucinous Adenocarcinoma	Stage IIIC	183	163	False	True	Asterand	IGC	COAD	1	1
+TCGA-F4-6805	COAD	FEMALE	Alive	58	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	162	60	False	True	Asterand	IGC	COAD	1	0
+TCGA-F4-6806	COAD	FEMALE	Alive	59	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage I	172	70	False	True	Asterand	IGC	COAD	1	0
+TCGA-F4-6807	COAD	FEMALE	Alive	51	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIC	166	57	False	True	Asterand	IGC	COAD	1	0
+TCGA-F4-6808	COAD	FEMALE	Alive	54	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage I	166	70	False	True	Asterand	IGC	COAD	1	0
+TCGA-F4-6809	COAD	FEMALE	Dead	52	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IVA	150	88	False	True	Asterand	IGC	COAD	1	0
+TCGA-F4-6854	COAD	FEMALE	Alive	77	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	170	66	False	True	Asterand	IGC	COAD	1	0
+TCGA-F4-6855	COAD	FEMALE	Alive	70	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	167	80	False	True	Asterand	IGC	COAD	1	0
+TCGA-F4-6856	COAD	MALE	Alive	45	No	Colon	False	False	WHITE	Colon Mucinous Adenocarcinoma	Stage I	160	61		True	Asterand	IGC	COAD	1	0
+TCGA-G4-6293	COAD	FEMALE	Alive	49	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage III	150	64.5	True	True	Roswell Park	IGC	COAD	1	0
+TCGA-G4-6294	COAD	MALE	Dead	75	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IV	NA	47.5	True	True	Roswell Park	IGC	COAD	1	0
+TCGA-G4-6295	COAD	FEMALE	Alive	70	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage II	NA	59	True	True	Roswell Park	IGC	COAD	1	1
+TCGA-G4-6297	COAD	FEMALE	Alive	55	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IV	NA	64	True	True	Roswell Park	IGC	COAD	1	1
+TCGA-G4-6298	COAD	MALE	Dead	90	No	Colon	True	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIIB	NA	59.4	False	True	Roswell Park	IGC	COAD	1	1
+TCGA-G4-6299	COAD	MALE	Alive	69	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIC	130	88	False	True	Roswell Park	IGC	COAD	1	0
+TCGA-G4-6302	COAD	FEMALE	Dead	90	No	Colon	False	False	WHITE	Colon Mucinous Adenocarcinoma	Stage IIA	152.5	57	True	True	Roswell Park	IGC	COAD	1	1
+TCGA-G4-6303	COAD	FEMALE	Dead	54	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IV	NA	69	True	True	Roswell Park	IGC	COAD	1	0
+TCGA-G4-6304	COAD	FEMALE	Alive	66	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IIB	NA	57	False	True	Roswell Park	IGC	COAD	1	0
+TCGA-G4-6306	COAD	MALE	Alive	71	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	170	110	False	True	Roswell Park	IGC	COAD	1	0
+TCGA-G4-6307	COAD	FEMALE	Alive	37	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIIB	166	71	True	True	Roswell Park	IGC	COAD	1	0
+TCGA-G4-6309	COAD	FEMALE	Alive	40	No	Colon	True	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIIB	176	65.4	True	True	Roswell Park	IGC	COAD	1	0
+TCGA-G4-6310	COAD	MALE	Alive	69	No	Colon	False	True	WHITE	Colon Adenocarcinoma	Stage IIIB	173	102.5	False	True	Roswell Park	IGC	COAD	1	0
+TCGA-G4-6311	COAD	MALE	Alive	80	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage III	173.5	69.9	False	True	Roswell Park	IGC	COAD	1	1
+TCGA-G4-6314	COAD	FEMALE	Alive	76	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IV	158.5	84.1	True	True	Roswell Park	IGC	COAD	1	1
+TCGA-G4-6315	COAD	MALE	Alive	66	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IV	170	58	True	True	Roswell Park	IGC	COAD	1	0
+TCGA-G4-6317	COAD	FEMALE	Alive	51	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IIIC	162	95.3	False	True	Roswell Park	IGC	COAD	1	0
+TCGA-G4-6320	COAD	MALE	Alive	73	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage III	193	139.7	True	True	Roswell Park	IGC	COAD	1	1
+TCGA-G4-6321	COAD	FEMALE	Alive	60	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage III	178.2	100	True	True	Roswell Park	IGC	COAD	1	0
+TCGA-G4-6322	COAD	MALE	Alive	65	No	Colon	True	False	WHITE	Colon Mucinous Adenocarcinoma	Stage IIIB	182	90.9	True	True	Roswell Park	IGC	COAD	1	1
+TCGA-G4-6323	COAD	MALE	Alive	50	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IA	171.5	88.4	False	True	Roswell Park	IGC	COAD	1	0
+TCGA-G4-6586	COAD	FEMALE	Alive	73	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	152.1	63.2	False	True	Roswell Park	IGC	COAD	1	0
+TCGA-G4-6588	COAD	FEMALE	Alive	58	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	166	57	False	True	Roswell Park	IGC	COAD	1	0
+TCGA-G4-6625	COAD	FEMALE	Alive	77	No	Colon	True	False	WHITE	Colon Adenocarcinoma	Stage IIA	149	65.5	True	True	Roswell Park	IGC	COAD	1	1
+TCGA-G4-6626	COAD	MALE	Dead	90	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	NA	59	False	True	Roswell Park	IGC	COAD	1	0
+TCGA-G4-6627	COAD	MALE	Alive	84	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage IIA	176	80	True	True	Roswell Park	IGC	COAD	1	0
+TCGA-G4-6628	COAD	MALE	Alive	78	No	Colon	False	False	WHITE	Colon Adenocarcinoma	Stage I	169	91	True	True	Roswell Park	IGC	COAD	1	0
+TCGA-NH-A50T	COAD	FEMALE	Alive	68	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIA	160.02	73.5	False	True	Candler	NCH	COAD	1	0
+TCGA-NH-A50U	COAD	MALE	Dead	42	No	Colon	True	False	BLACK OR AFRICAN AMERICAN	Colon Mucinous Adenocarcinoma	Stage IVA	172.7	88.5	True	True	Candler	NCH	COAD	1	0
+TCGA-NH-A50V	COAD	MALE	Alive	69	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIIB	167.6	65.9	False	True	Candler	NCH	COAD	1	0
+TCGA-NH-A5IV	COAD	FEMALE	Alive	90	No	Colon		False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIA	158.5	49.5	False	True	Candler	NCH	COAD	1	0
+TCGA-NH-A6GA	COAD	MALE	Dead	58	No	Colon	True	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIIC	162.6	92	False	True	Candler	NCH	COAD	1	0
+TCGA-NH-A6GB	COAD	FEMALE	Alive	71	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIIC	167.6	83	False	True	Candler	NCH	COAD	1	0
+TCGA-NH-A6GC	COAD	FEMALE	Alive	66	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Mucinous Adenocarcinoma	Stage IVB	165.1	107	False	True	Candler	NCH	COAD	1	0
+TCGA-NH-A8F7	COAD	FEMALE	Alive	53	No	Colon	False	True	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIA	80.3	175.3	False	True	Candler	NCH	COAD	1	0
+TCGA-NH-A8F8	COAD	MALE	Dead	79	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IV	172.7	74	False	True	Candler	NCH	COAD	1	0
+TCGA-QG-A5YV	COAD	FEMALE	Alive	64	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIIC	173	109.226	False	True	BLN - Baylor	NCH	COAD	1	0
+TCGA-QG-A5YW	COAD	FEMALE	Alive	55	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Mucinous Adenocarcinoma	Stage IIIC	170	84.37	False	True	BLN - Baylor	NCH	COAD	1	0
+TCGA-QG-A5YX	COAD	FEMALE	Alive	61	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIA	163	68.49	True	True	BLN - Baylor	NCH	COAD	1	0
+TCGA-QG-A5Z1	COAD	MALE	Dead	71	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIIB	NA	91.1	False	True	BLN - Baylor	NCH	COAD	1	0
+TCGA-QG-A5Z2	COAD	MALE	Alive	61	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage I	183	97.5	True	True	BLN - Baylor	NCH	COAD	1	0
+TCGA-QL-A97D	COAD	FEMALE	Alive	84	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage I	NA	NA		True	University of Chicago	NCH	COAD	1	0
+TCGA-RU-A8FL	COAD	MALE	Alive	51	No	Colon	True	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIIB	187.96	125	False	True	Northwestern University	NCH	COAD	1	0
+TCGA-SS-A7HO	COAD	FEMALE	Alive	44	No	Colon	True	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIB	167	97.5	False	True	Medical College of Georgia	NCH	COAD	1	0
+TCGA-T9-A92H	COAD	MALE	Alive	82	No	Colon	True	False	BLACK OR AFRICAN AMERICAN	Colon Adenocarcinoma	Stage IIA	180	63.9	False	True	Molecular Response	NCH	COAD	1	0
+TCGA-WS-AB45	COAD	FEMALE	Alive	52	No	Colon	False	False	BLACK OR AFRICAN AMERICAN	Colon Mucinous Adenocarcinoma	Stage IIA	152	34	False	True	University of Kansas	NCH	COAD	1	0
+TCGA-AF-2687	READ	MALE	Alive	57	No	Rectum	True	True	WHITE	Rectal Adenocarcinoma	Stage IIIC	163	68.2	False	True	Christiana Healthcare	IGC	READ	1	0
+TCGA-AF-2689	READ	FEMALE	Dead	41	No	Rectum	True	False	WHITE	Rectal Adenocarcinoma	Stage IV	163	55.5	False	True	Christiana Healthcare	IGC	READ	1	1
+TCGA-AF-2690	READ	FEMALE	Dead	76	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIIC	160	54.5	False	True	Christiana Healthcare	IGC	READ	1	0
+TCGA-AF-2691	READ	FEMALE	Alive	48	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage I	167.6	52.4	False	True	Christiana Healthcare	IGC	READ	1	1
+TCGA-AF-2692	READ	FEMALE	Alive	54	No		True	False	WHITE		Stage IIA	170	64.4	True		Christiana Healthcare	IGC	READ	1	1
+TCGA-AF-2693	READ	MALE	Alive	75	No		False	False	WHITE		Stage I	180.3	107.6	False		Christiana Healthcare	IGC	READ	1	0
+TCGA-AF-3400	READ	MALE	Alive	54	No	Rectum	False	True	WHITE	Rectal Mucinous Adenocarcinoma	Stage IIA	177.8	85.4	True	True	Christiana Healthcare	IGC	READ	1	1
+TCGA-AF-3911	READ	MALE	Alive	48	No	Rectum	True	True	WHITE	Rectal Adenocarcinoma	Stage IIIC	180.3	94.5	True	True	Christiana Healthcare	IGC	READ	1	0
+TCGA-AF-3913	READ	MALE	Dead	60	No	Rectum	False	False	BLACK OR AFRICAN AMERICAN	Rectal Adenocarcinoma	Stage IV	180	95.5	True	True	Christiana Healthcare	IGC	READ	1	1
+TCGA-AF-3914	READ	MALE	Alive	39	No	Rectum	True	True	WHITE	Rectal Adenocarcinoma	Stage IIIB	172.7	64.2	False	True	Christiana Healthcare	IGC	READ	1	1
+TCGA-AF-4110	READ	MALE	Alive	77	No		False	False	WHITE		Stage IVA	188	92	True		Christiana Healthcare	IGC	READ	1	0
+TCGA-AF-5654	READ	FEMALE	Dead	73	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage I	165	96.6	False	True	Christiana Healthcare	IGC	READ	1	1
+TCGA-AF-6136	READ	FEMALE	Alive	72	No	Rectum	True	True	WHITE	Rectal Adenocarcinoma	Stage IIIB	161.3	67.2	False	True	Christiana Healthcare	IGC	READ	1	0
+TCGA-AF-6655	READ	MALE	Alive	66	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIIA	173	53.2	False	True	Christiana Healthcare	IGC	READ	1	0
+TCGA-AF-6672	READ	MALE	Alive	43	No	Rectum	True	True	WHITE	Rectal Adenocarcinoma	Stage IV	172.7	93.8	False	True	Christiana Healthcare	IGC	READ	1	0
+TCGA-AF-A56K	READ	MALE	Alive	56	No	Rectum	False	False	BLACK OR AFRICAN AMERICAN	Rectal Adenocarcinoma	Stage IIA	182.5	145.5	False	True	Christiana Healthcare	IGC	READ	1	0
+TCGA-AF-A56L	READ	FEMALE	Alive	48	No	Rectum	False	False	BLACK OR AFRICAN AMERICAN	Rectal Adenocarcinoma	Stage IIIC	159	74.3	False	True	Christiana Healthcare	IGC	READ	1	0
+TCGA-AF-A56N	READ	FEMALE	Alive	47	No	Rectum	False	True	BLACK OR AFRICAN AMERICAN	Rectal Adenocarcinoma	Stage IIA	165.1	78.1	False	True	Christiana Healthcare	IGC	READ	1	0
+TCGA-AG-3574	READ	FEMALE	Dead	89	No	Rectum		False		Rectal Adenocarcinoma	Stage II	NA	NA	False	True	Indivumed	IGC	READ	1	0
+TCGA-AG-3575	READ	MALE	Alive	51	No	Rectum	False	False		Rectal Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3578	READ	FEMALE	Alive	76	No	Rectum	False	False		Rectal Mucinous Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3580	READ	MALE	Alive	67	No	Rectum	False	False		Rectal Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3581	READ	MALE	Alive	63	No	Rectum	False	False		Rectal Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3582	READ	MALE	Dead	75	No	Rectum		False		Rectal Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3583	READ	MALE	Dead	66	No	Rectum		False		Rectal Mucinous Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3584	READ	MALE	Dead	60	No	Rectum	False	False		Rectal Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3586	READ	FEMALE	Alive	72	No	Rectum					Stage III	NA	NA			Indivumed	IGC	READ	1	0
+TCGA-AG-3587	READ	MALE	Alive	65	No	Rectum	True	True		Rectal Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3591	READ	FEMALE	Alive	66	No	Rectum	False	True		Rectal Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3592	READ	MALE	Alive	68	No	Rectum	False	False		Rectal Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3593	READ	FEMALE	Alive	72	No	Rectum	False	True		Rectal Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3594	READ	MALE	Dead	77	No	Rectum		False		Rectal Mucinous Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3598	READ	MALE	Alive	69	No	Rectum	False	False		Rectal Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3599	READ	MALE	Alive	70	No	Rectum	False	False			Stage I	NA	NA			Indivumed	IGC	READ	1	0
+TCGA-AG-3600	READ	MALE	Alive	62	No	Rectum	False	True		Rectal Adenocarcinoma	Stage IIIC	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3601	READ	MALE	Alive	68	No	Rectum				Rectal Adenocarcinoma	Stage IIIB	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3602	READ	FEMALE	Alive	66	No	Rectum				Rectal Adenocarcinoma	Stage IIIC	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3605	READ	FEMALE	Alive	85	No	Rectum				Rectal Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3608	READ	FEMALE	Alive	79	No	Rectum	False	False		Rectal Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3609	READ	FEMALE	Alive	65	No	Rectum	False	False		Rectal Adenocarcinoma	Stage IIIC	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3611	READ	MALE	Alive	72	No	Rectum	False	False		Rectal Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3612	READ	FEMALE	Alive	55	No	Rectum	False	False		Rectal Adenocarcinoma	Stage IIIB	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3725	READ	FEMALE	Alive	90	No	Rectum	False	False		Rectal Adenocarcinoma	Stage III	NA	NA		True	Indivumed	IGC	READ	1	1
+TCGA-AG-3726	READ	FEMALE	Alive	63	No	Rectum	False	False		Rectal Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3727	READ	FEMALE	Alive	78	No	Rectum				Rectal Adenocarcinoma	Stage III	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3728	READ	MALE	Alive	73	No	Rectum		False		Rectal Adenocarcinoma	Stage IIIB	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3731	READ	MALE	Alive	65	No	Rectum	False	False		Rectal Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	READ	1	1
+TCGA-AG-3732	READ	FEMALE	Alive	78	No	Rectum	False	False		Rectal Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	READ	1	1
+TCGA-AG-3742	READ	FEMALE	Alive	85	No	Rectum				Rectal Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	READ	1	1
+TCGA-AG-3878	READ	MALE	Alive	64	No	Rectum				Rectal Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3881	READ	FEMALE	Alive	83	No	Rectum	False	False			Stage IIA	NA	NA			Indivumed	IGC	READ	1	0
+TCGA-AG-3882	READ	FEMALE	Alive	66	No	Rectum	False	False		Rectal Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3883	READ	MALE	Alive	69	No	Rectum				Rectal Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3885	READ	FEMALE	Alive	71	No	Rectum	False	True		Rectal Adenocarcinoma	Stage IIIB	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3887	READ	MALE	Alive	68	No	Rectum	True	True		Rectal Mucinous Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3890	READ	MALE	Alive	62	No	Rectum	False	False		Rectal Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3891	READ	FEMALE	Alive	66	No	Rectum	False	False		Rectal Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3892	READ	FEMALE	Alive	57	No	Rectum	False	False		Rectal Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3893	READ	MALE	Alive	74	No	Rectum	False	False		Rectal Adenocarcinoma	Stage IIIB	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3894	READ	MALE	Alive	65	No	Rectum	False	True		Rectal Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3896	READ	FEMALE	Alive	85	No	Rectum				Rectal Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3898	READ	MALE	Alive	61	No	Rectum	False	False		Rectal Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3901	READ	FEMALE	Alive	67	No	Rectum		False		Rectal Mucinous Adenocarcinoma	Stage IIIB	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3902	READ	MALE	Alive	61	No	Rectum	False	False		Rectal Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3906	READ	FEMALE	Alive	67	No	Rectum	False	False		Rectal Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-3909	READ	FEMALE	Alive	69	No	Rectum	False	False		Rectal Adenocarcinoma	Stage IIIB	NA	NA	False	True	Indivumed	IGC	READ	1	0
+TCGA-AG-3999	READ	FEMALE	Alive	61	No	Rectum	True	False		Rectal Adenocarcinoma	Stage IIIC	NA	NA	False	True	Indivumed	IGC	READ	1	0
+TCGA-AG-4001	READ	FEMALE	Alive	74	No	Rectum	False	False		Rectal Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-4005	READ	MALE	Alive	64	No	Rectum	False	False		Rectal Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-4007	READ	MALE	Alive	87	No	Rectum				Rectal Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-4008	READ	MALE	Alive	63	No	Rectum	False	False		Rectal Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-4009	READ	MALE	Alive	83	No	Rectum	False	False		Rectal Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-4015	READ	FEMALE	Alive	85	No	Rectum				Rectal Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-4021	READ	FEMALE	Dead	84	No	Rectum	True	False		Rectal Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-4022	READ	FEMALE	Alive	59	No	Rectum	False	True		Rectal Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-A002	READ	MALE	Alive	35	No	Rectum	False	False		Rectal Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-A008	READ	FEMALE	Alive	50	No	Rectum	False	False		Rectal Mucinous Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-A00C	READ	FEMALE	Alive	49	No	Rectum	False	True		Rectal Adenocarcinoma	Stage IIIB	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-A00H	READ	MALE	Alive	75	No	Rectum	True	True		Rectal Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-A00Y	READ	MALE	Alive	68	No	Rectum	True	False		Rectal Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-A011	READ	MALE	Alive	80	No	Rectum	False	False		Rectal Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-A014	READ	MALE	Alive	86	No	Rectum				Rectal Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-A015	READ	FEMALE	Alive	64	No	Rectum	True	False		Rectal Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-A016	READ	MALE	Alive	55	No	Rectum	False	False		Rectal Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-A01J	READ	FEMALE	Alive	59	No	Rectum				Rectal Adenocarcinoma	Stage IIA	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-A01L	READ	MALE	Alive	58	No	Rectum				Rectal Adenocarcinoma	Stage IIIB	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-A01N	READ	FEMALE	Alive	68	No	Rectum	False	False		Rectal Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-A01W	READ	FEMALE	Alive	67	No	Rectum				Rectal Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	READ	1	1
+TCGA-AG-A01Y	READ	FEMALE	Alive	49	No	Rectum				Rectal Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	READ	1	1
+TCGA-AG-A020	READ	FEMALE	Alive	57	No	Rectum				Rectal Mucinous Adenocarcinoma	Stage III	NA	NA		True	Indivumed	IGC	READ	1	1
+TCGA-AG-A023	READ	FEMALE	Dead	62	No	Rectum	True	False		Rectal Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-A025	READ	FEMALE	Alive	62	No	Rectum				Rectal Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-A026	READ	MALE	Dead	66	No	Rectum				Rectal Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-A02G	READ	MALE	Dead	66	No	Rectum	True	False		Rectal Adenocarcinoma	Stage IV	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-A02N	READ	MALE	Alive	67	No	Rectum				Rectal Adenocarcinoma	Stage II	NA	NA		True	Indivumed	IGC	READ	1	1
+TCGA-AG-A02X	READ	MALE	Alive	77	No	Rectum				Rectal Adenocarcinoma	Stage I	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-A032	READ	MALE	Alive	68	No	Rectum	True	True		Rectal Adenocarcinoma	Stage IIIB	NA	NA		True	Indivumed	IGC	READ	1	0
+TCGA-AG-A036	READ	MALE	Alive	71	No	Rectum	False	True		Rectal Adenocarcinoma	Stage III	NA	NA		True	Indivumed	IGC	READ	1	1
+TCGA-AH-6544	READ	MALE	Alive	60	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma		177.8	91		True	International Genomics Consortium	IGC	READ	1	0
+TCGA-AH-6547	READ	FEMALE	Dead	79	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma		NA	NA	True	True	International Genomics Consortium	IGC	READ	1	1
+TCGA-AH-6549	READ	MALE	Alive	66	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma		NA	NA	True	True	International Genomics Consortium	IGC	READ	1	0
+TCGA-AH-6643	READ	MALE	Dead	50	No	Rectum	True	False	WHITE	Rectal Adenocarcinoma	Stage IIIC	180.5	84.4	False	True	International Genomics Consortium	IGC	READ	1	1
+TCGA-AH-6644	READ	MALE	Alive	73	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma		NA	NA	False	True	International Genomics Consortium	IGC	READ	1	0
+TCGA-AH-6897	READ	MALE	Alive	48	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage I	180.5	86.4	False	True	International Genomics Consortium	IGC	READ	1	0
+TCGA-AH-6903	READ	MALE	Alive	46	No	Rectum	False	False	WHITE	Rectal Mucinous Adenocarcinoma	Stage IIIB	183	74.8	False	True	International Genomics Consortium	IGC	READ	1	0
+TCGA-BM-6198	READ	MALE	Alive	73	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIIB	NA	119	False	True	UNC	IGC	READ	1	0
+TCGA-CI-6619	READ	MALE	Alive	41	No	Rectum			WHITE	Rectal Adenocarcinoma	Stage IV	NA	NA		True	University of Pittsburgh	IGC	READ	1	0
+TCGA-CI-6620	READ	FEMALE	Alive	41	Yes	Rectum	True	False	WHITE	Rectal Adenocarcinoma	Stage IVA	NA	NA		True	University of Pittsburgh	IGC	READ	1	0
+TCGA-CI-6621	READ	MALE	Alive	63	No	Rectum			WHITE	Rectal Adenocarcinoma	Stage IIIB	NA	NA		True	University of Pittsburgh	IGC	READ	1	0
+TCGA-CI-6622	READ	MALE	Alive	74	No	Rectum		True	WHITE	Rectal Adenocarcinoma	Stage IIB	NA	NA		True	University of Pittsburgh	IGC	READ	1	0
+TCGA-CI-6623	READ	MALE	Alive	44	No	Rectum			WHITE	Rectal Adenocarcinoma	Stage I	NA	NA		True	University of Pittsburgh	IGC	READ	1	0
+TCGA-CI-6624	READ	FEMALE	Alive	53	No	Rectum			WHITE	Rectal Adenocarcinoma	Stage I	NA	NA		True	University of Pittsburgh	IGC	READ	1	0
+TCGA-CL-4957	READ	FEMALE	Dead	79	No	Rectum	False	False		Rectal Adenocarcinoma		NA	NA		True	Harvard	IGC	READ	1	0
+TCGA-CL-5917	READ	FEMALE	Alive	71	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIIC	NA	NA	True	True	Harvard	IGC	READ	1	0
+TCGA-CL-5918	READ	FEMALE	Alive	90	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIA	NA	NA	False	True	Harvard	IGC	READ	1	0
+TCGA-DC-4745	READ	FEMALE	Alive	49	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIIB	165	93.8	False	True	MSKCC	IGC	READ	1	0
+TCGA-DC-4749	READ	MALE	Alive	57	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage I	179	87.1	False	True	MSKCC	IGC	READ	1	0
+TCGA-DC-5337	READ	MALE	Alive	69	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage I	165	69.4	False	True	MSKCC	IGC	READ	1	0
+TCGA-DC-5869	READ	FEMALE	Alive	62	No	Rectum	False	False	BLACK OR AFRICAN AMERICAN	Rectal Adenocarcinoma	Stage IIIB	170	62.4	False	True	MSKCC	IGC	READ	1	0
+TCGA-DC-6154	READ	FEMALE	Alive	57	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IVA	162	59.4	False	True	MSKCC	IGC	READ	1	0
+TCGA-DC-6155	READ	FEMALE	Alive	31	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIIA	163	55.3	False	True	MSKCC	IGC	READ	1	0
+TCGA-DC-6156	READ	MALE	Alive	62	No	Rectum	True	False	WHITE	Rectal Adenocarcinoma	Stage IVA	175	86.1	False	True	MSKCC	IGC	READ	1	0
+TCGA-DC-6157	READ	MALE	Alive	48	No	Rectum	False	False	BLACK OR AFRICAN AMERICAN	Rectal Adenocarcinoma	Stage I	185	116	False	True	MSKCC	IGC	READ	1	0
+TCGA-DC-6158	READ	MALE	Dead	70	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage I	160	71.7	False	True	MSKCC	IGC	READ	1	0
+TCGA-DC-6160	READ	MALE	Alive	68	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage I	175.4	100.1	True	True	MSKCC	IGC	READ	1	0
+TCGA-DC-6681	READ	FEMALE	Alive	70	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IVA	151	63.1	False	True	MSKCC	IGC	READ	1	0
+TCGA-DC-6682	READ	MALE	Alive	57	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIA	184	172.4	False	True	MSKCC	IGC	READ	1	0
+TCGA-DC-6683	READ	MALE	Alive	43	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIIB	183	82.6	False	True	MSKCC	IGC	READ	1	0
+TCGA-DT-5265	READ	MALE	Alive	51	No	Rectum	False	True	ASIAN	Rectal Mucinous Adenocarcinoma	Stage II	NA	NA		True	ILSBio	IGC	READ	1	0
+TCGA-DY-A0XA	READ	FEMALE	Alive	57	No	Rectum	False		WHITE	Rectal Adenocarcinoma	Stage IIA	159	64		True	University Of Michigan	NCH	READ	1	0
+TCGA-DY-A1DC	READ	FEMALE	Dead	72	No	Rectum	True		WHITE	Rectal Adenocarcinoma	Stage IIA	NA	68		True	University Of Michigan	NCH	READ	1	0
+TCGA-DY-A1DD	READ	FEMALE	Dead	77	No	Rectum	False		WHITE	Rectal Adenocarcinoma	Stage IIIB	156	42		True	University Of Michigan	NCH	READ	1	0
+TCGA-DY-A1DE	READ	FEMALE	Alive	56	No	Rectum	True		WHITE	Rectal Adenocarcinoma	Stage IIA	160	70		True	University Of Michigan	NCH	READ	1	0
+TCGA-DY-A1DF	READ	FEMALE	Dead	73	No	Rectum			WHITE	Rectal Adenocarcinoma	Stage IIIC	156	75		True	University Of Michigan	NCH	READ	1	0
+TCGA-DY-A1DG	READ	MALE	Dead	75	No	Rectum	True		WHITE	Rectal Adenocarcinoma	Stage IVA	175	86	True	True	University Of Michigan	NCH	READ	1	0
+TCGA-DY-A1H8	READ	FEMALE	Dead	77	No	Rectum	False		WHITE	Rectal Adenocarcinoma	Stage IIIA	160	40		True	University Of Michigan	NCH	READ	1	0
+TCGA-EF-5830	READ	MALE	Alive	54	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIB	182	93	False	True	Cureline	IGC	READ	1	0
+TCGA-EF-5831	READ	MALE	Alive	72	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIA	162	60		True	Cureline	IGC	READ	1	0
+TCGA-EI-6506	READ	FEMALE	Alive	78	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIA	162	65	False	True	Greater Poland Cancer Center	IGC	READ	1	0
+TCGA-EI-6507	READ	MALE	Alive	60	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIA	176	54	False	True	Greater Poland Cancer Center	IGC	READ	1	0
+TCGA-EI-6508	READ	FEMALE	Alive	48	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIIB	159	66	False	True	Greater Poland Cancer Center	IGC	READ	1	0
+TCGA-EI-6509	READ	MALE	Alive	53	No	Rectum	True	False	WHITE	Rectal Adenocarcinoma	Stage IIIC	178	82	False	True	Greater Poland Cancer Center	IGC	READ	1	0
+TCGA-EI-6510	READ	FEMALE	Alive	77	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IVA	150	59	False	True	Greater Poland Cancer Center	IGC	READ	1	0
+TCGA-EI-6511	READ	MALE	Alive	52	No	Rectum	False	True	WHITE	Rectal Adenocarcinoma	Stage IIIB	165	69	True	True	Greater Poland Cancer Center	IGC	READ	1	0
+TCGA-EI-6512	READ	FEMALE	Alive	64	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIIB	170	61	False	True	Greater Poland Cancer Center	IGC	READ	1	0
+TCGA-EI-6513	READ	MALE	Alive	59	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIIB	175	78	True	True	Greater Poland Cancer Center	IGC	READ	1	0
+TCGA-EI-6514	READ	FEMALE	Alive	59	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIA	NA	NA	False	True	Greater Poland Cancer Center	IGC	READ	1	0
+TCGA-EI-6881	READ	MALE	Alive	60	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIIA	176	86	False	True	Greater Poland Cancer Center	IGC	READ	1	0
+TCGA-EI-6882	READ	MALE	Alive	59	No	Rectum	False	False	WHITE	Rectal Mucinous Adenocarcinoma	Stage IIA	178	108	False	True	Greater Poland Cancer Center	IGC	READ	1	0
+TCGA-EI-6883	READ	MALE	Alive	63	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIC	180	73	False	True	Greater Poland Cancer Center	IGC	READ	1	0
+TCGA-EI-6884	READ	MALE	Alive	71	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIIA	166	73	False	True	Greater Poland Cancer Center	IGC	READ	1	0
+TCGA-EI-6885	READ	FEMALE	Alive	57	No	Rectum	True	False	WHITE	Rectal Adenocarcinoma	Stage IV	164	53	False	True	Greater Poland Cancer Center	IGC	READ	1	0
+TCGA-EI-6917	READ	MALE	Alive	33	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIIA	176	80	False	True	Greater Poland Cancer Center	IGC	READ	1	0
+TCGA-EI-7002	READ	MALE	Alive	58	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IV	185	93	False	True	Greater Poland Cancer Center	IGC	READ	1	0
+TCGA-EI-7004	READ	FEMALE	Alive	37	No	Rectum	False	False	WHITE	Rectal Mucinous Adenocarcinoma	Stage IVA	172	88	False	True	Greater Poland Cancer Center	IGC	READ	1	0
+TCGA-F5-6464	READ	FEMALE	Dead	77	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIIC	159	68	False	True	Asterand	IGC	READ	1	0
+TCGA-F5-6465	READ	FEMALE	Alive	64	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIA	170	62	False	True	Asterand	IGC	READ	1	0
+TCGA-F5-6571	READ	FEMALE	Alive	62	No	Rectum	True	False	WHITE	Rectal Adenocarcinoma	Stage IIA	166	80	False	True	Asterand	IGC	READ	1	0
+TCGA-F5-6702	READ	MALE	Alive	71	No	Rectum	True	False	WHITE	Rectal Adenocarcinoma	Stage IVA	172	76	False	True	Asterand	IGC	READ	1	0
+TCGA-F5-6810	READ	MALE	Alive	71	No	Rectum			WHITE	Rectal Adenocarcinoma	Stage IIA	165	55	False	True	Asterand	IGC	READ	1	0
+TCGA-F5-6811	READ	FEMALE	Alive	72	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIA	165	88		True	Asterand	IGC	READ	1	0
+TCGA-F5-6812	READ	MALE	Alive	67	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIA	188	90	False	True	Asterand	IGC	READ	1	0
+TCGA-F5-6813	READ	MALE	Dead	70	No	Rectum	True	False	WHITE	Rectal Adenocarcinoma	Stage IIIC	174	85	False	True	Asterand	IGC	READ	1	0
+TCGA-F5-6814	READ	MALE	Alive	57	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIA	175	61	False	True	Asterand	IGC	READ	1	0
+TCGA-F5-6861	READ	FEMALE	Alive	60	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIA	162	64	False	True	Asterand	IGC	READ	1	0
+TCGA-F5-6863	READ	FEMALE	Dead	71	No	Rectum	True	False	WHITE	Rectal Adenocarcinoma	Stage IIIB	166	77	False	True	Asterand	IGC	READ	1	0
+TCGA-F5-6864	READ	FEMALE	Alive	74	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma	Stage IIIB	157	78		True	Asterand	IGC	READ	1	0
+TCGA-G5-6233	READ	MALE	Dead	74	No	Rectum	True	False	WHITE	Rectal Adenocarcinoma	Stage IIC	176.9	97.7	False	True	Roswell Park	IGC	READ	1	0
+TCGA-G5-6235	READ	MALE	Alive	72	No	Rectum	True	False	WHITE	Rectal Adenocarcinoma	Stage IIIB	169	77.6	False	True	Roswell Park	IGC	READ	1	0
+TCGA-G5-6572	READ	MALE	Dead	56	No	Rectum	False	False	WHITE	Rectal Adenocarcinoma		185.4	140	False	True	Roswell Park	IGC	READ	1	0
+TCGA-G5-6641	READ	MALE	Alive	67	No	Rectum	False	False	WHITE	Rectal Mucinous Adenocarcinoma	Stage IIIA	189.3	118.6	False	True	Roswell Park	IGC	READ	1	0
